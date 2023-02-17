@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve decentralized exchange (DEX) liquidity
 // Add batch transaction capabilities
+// Add support for delegation in governance
