@@ -2,3 +2,4 @@
 // Add support for decentralized credit scoring
 // Improve decentralized identity (DID) systems
 // Improve contract execution speed
+// Add support for zk-SNARKs in smart contracts
