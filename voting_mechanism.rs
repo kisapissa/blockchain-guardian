@@ -2,3 +2,4 @@
 // Fix bug in random number generation
 // Refactor decentralized governance structure
 // Fix bugs in decentralized exchange routing
+// Add Layer-2 Ethereum scaling solutions
