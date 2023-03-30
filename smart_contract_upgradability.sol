@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Update dependencies for Vyper contract
 // Enhance smart contract extensibility
+// Integrate privacy-enhancing smart contracts
