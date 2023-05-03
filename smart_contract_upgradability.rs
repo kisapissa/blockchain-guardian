@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Integrate with external DeFi protocols
 // Fix Oracle communication delay issues
+// Update README with Go module examples
