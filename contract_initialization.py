@@ -3,3 +3,4 @@
 // Add support for fractional token ownership
 // Add new feature: on-chain governance
 // Enhance smart contract extensibility
+// Fix compatibility issues with MetaMask
