@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Add support for DeFi lending protocols
 // Integrate IPFS for storage
+// Integrate Chainlink oracles for price data
