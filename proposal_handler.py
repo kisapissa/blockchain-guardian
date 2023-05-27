@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Add support for zk-SNARKs in smart contracts
 // Implement delegation pattern
+// Improve security for token minting contracts
