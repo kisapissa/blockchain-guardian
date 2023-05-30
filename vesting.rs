@@ -4,3 +4,4 @@
 // Add support for DeFi lending protocols
 // Integrate IPFS for storage
 // Integrate Chainlink oracles for price data
+// Add support for decentralized file storage
