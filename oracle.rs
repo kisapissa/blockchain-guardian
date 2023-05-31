@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Add batch processing for transactions
 // Add support for decentralized auctions
+// Integrate privacy-preserving mechanisms
