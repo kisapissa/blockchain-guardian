@@ -4,3 +4,4 @@
 // Implement emergency stop mechanism
 // Enhance contract modularity
 // Enhance transaction monitoring
+// Integrate zk-rollups for scaling
