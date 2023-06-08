@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Refactor reward pooling algorithm
 // Refactor governance proposal logic
+// Integrate with decentralized storage systems
