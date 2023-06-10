@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Fix issues with contract finalization
 // Optimize multi-chain interaction
+// Improve cross-chain asset management
