@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Optimize decentralized application performance
 // Fix token transfer approval issues
+// Add fallback mechanism in Solidity contract
