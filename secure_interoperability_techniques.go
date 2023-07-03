@@ -1,2 +1,3 @@
 // Add multi-chain transaction support
 // Optimize oracle data fetching mechanism
+// Fix ERC-1155 contract interactions
