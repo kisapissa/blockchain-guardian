@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Reduce gas cost in minting logic
 // Enhance contract initialization process
+// Add multi-sig wallet functionality
