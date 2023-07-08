@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Add support for NFT marketplaces
 // Improve on-chain governance systems
+// Add support for decentralized auctions
