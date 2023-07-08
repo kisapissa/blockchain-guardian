@@ -2,3 +2,4 @@
 // Fix data consistency issues in smart contracts
 // Improve contract interaction via APIs
 // Add fallback mechanism in Solidity contract
+// Add support for NFT marketplaces
