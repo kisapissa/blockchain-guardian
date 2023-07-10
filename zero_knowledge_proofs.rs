@@ -5,3 +5,4 @@
 // Add batch transaction capabilities
 // Add support for delegation in governance
 // Update testing framework for Solidity
+// Add governance proposal expiration feature
