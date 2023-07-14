@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Refactor decentralized governance structure
 // Bugfix: incorrect reward calculation
+// Improve token burning mechanism
