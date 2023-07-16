@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Update testing framework for Solidity
 // Add governance proposal expiration feature
+// Add support for ERC-1155 tokens
