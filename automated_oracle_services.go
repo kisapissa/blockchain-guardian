@@ -2,3 +2,4 @@
 // Integrate with decentralized identity providers
 // Integrate privacy-preserving mechanisms
 // Fix compatibility issues with MetaMask
+// Add multi-chain governance support
