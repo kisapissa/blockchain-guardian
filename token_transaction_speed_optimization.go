@@ -1,2 +1,3 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize storage for off-chain data
+// Fix vulnerability in decentralized finance protocols
