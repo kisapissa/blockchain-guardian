@@ -2,3 +2,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate with external DeFi protocols
 // Optimize Oracle-based data fetching
+// Enhance logging for better debugging
