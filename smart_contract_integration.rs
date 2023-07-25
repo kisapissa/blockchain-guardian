@@ -2,3 +2,4 @@
 // Implement adaptive block size for Ethereum
 // Fix memory optimization issues in contracts
 // Add support for NFT marketplaces
+// Fix governance proposal approval logic
