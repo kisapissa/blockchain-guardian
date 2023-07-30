@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Optimize hashing algorithm
 // Fix compatibility issues with major wallets
+// Add support for NFT marketplaces
