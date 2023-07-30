@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Improve contract execution performance
 // Optimize token burn process
+// Improve staking pool reward management
