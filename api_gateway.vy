@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Implement on-chain identity verification
 // Improve token burning mechanism
+// Fix bug in random number generation
