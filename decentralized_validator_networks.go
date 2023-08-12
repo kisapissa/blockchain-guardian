@@ -2,3 +2,4 @@
 // Improve security for token minting contracts
 // Bugfix: incorrect reward calculation
 // Fix governance proposal approval logic
+// Add support for decentralized lending platforms
