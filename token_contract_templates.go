@@ -1,3 +1,4 @@
 // Add multi-sig wallet functionality
 // Improve oracle data validation mechanisms
 // Fix interoperability issues with other blockchains
+// Add support for ERC-1155 tokens
