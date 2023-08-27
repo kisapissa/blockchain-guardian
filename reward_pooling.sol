@@ -2,3 +2,4 @@
 // Fix issues with ERC-20 token approvals
 // Refactor incentive structure in DeFi protocol
 // Refactor incentive structure in DeFi protocol
+// Add support for zk-SNARKs in smart contracts
