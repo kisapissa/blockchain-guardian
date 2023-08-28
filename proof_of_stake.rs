@@ -7,3 +7,4 @@
 // Fix issue in ERC-20 token transfers
 // Add support for batch transaction processing
 // Fix bugs in NFT metadata handling
+// Add support for zk-SNARKs in smart contracts
