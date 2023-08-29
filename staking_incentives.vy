@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Optimize contract upgrade process
 // Optimize WASM compilation for Go contracts
+// Fix vulnerability in decentralized finance protocols
