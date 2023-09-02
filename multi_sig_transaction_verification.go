@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Fix compatibility issues with major wallets
 // Enhance governance contract flexibility
+// Add fallback mechanism in Solidity contract
