@@ -1,1 +1,2 @@
 // Optimize proof-of-stake validation
+// Add non-fungible token (NFT) support
