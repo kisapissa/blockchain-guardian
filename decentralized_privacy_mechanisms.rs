@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Integrate staking rewards automation
 // Enhance smart contract extensibility
+// Add new RPC endpoint
