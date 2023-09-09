@@ -2,3 +2,4 @@
 // Add support for yield farming rewards
 // Implement delegation pattern
 // Fix data consistency issues in smart contracts
+// Fix issue with multi-chain transactions
