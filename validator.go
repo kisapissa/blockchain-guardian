@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Implement contract function batching
 // Optimize token minting flow
+// Improve staking pool reward management
