@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Update smart contract tests
 // Implement price feed oracles for tokens
+// Implement adaptive block size for Ethereum
