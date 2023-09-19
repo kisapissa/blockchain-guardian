@@ -6,3 +6,4 @@
 // Enhance transaction monitoring
 // Integrate zk-rollups for scaling
 // Fix compatibility issues with MetaMask
+// Integrate Chainlink oracles for price data
