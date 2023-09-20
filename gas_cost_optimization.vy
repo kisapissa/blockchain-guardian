@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Add batch transaction capabilities
 // Refactor contract to use EIP-712 signatures
+// Add governance proposal expiration feature
