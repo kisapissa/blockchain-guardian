@@ -8,3 +8,4 @@
 // Add support for batch transaction processing
 // Fix bugs in NFT metadata handling
 // Add support for zk-SNARKs in smart contracts
+// Enhance privacy features using zk-STARKs
