@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Fix bug in random number generation
 // Implement on-chain fee adjustment mechanisms
+// Fix interoperability issues with other blockchains
