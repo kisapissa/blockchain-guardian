@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Reduce gas cost in minting logic
 // Add batch processing for transactions
+// Integrate zk-rollups for scaling
