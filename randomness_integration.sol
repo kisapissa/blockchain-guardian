@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Implement delegation pattern
 // Refactor multi-signature wallet code
+// Add decentralized contract upgradeability
