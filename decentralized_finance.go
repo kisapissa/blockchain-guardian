@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Add decentralized contract upgradeability
 // Integrate with decentralized prediction markets
+// Add support for ERC-1155 tokens
