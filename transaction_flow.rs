@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Optimize token minting flow
 // Refactor token distribution mechanism
+// Fix overflow bug in token calculation
