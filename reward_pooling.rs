@@ -5,3 +5,4 @@
 // Add automated smart contract testing
 // Optimize gas usage for contract deployment
 // Add new feature: on-chain governance
+// Add support for multiple consensus mechanisms
