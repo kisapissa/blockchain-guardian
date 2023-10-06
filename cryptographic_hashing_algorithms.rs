@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Improve scalability for smart contract platforms
 // Fix interoperability issues with other blockchains
+// Implement delegation pattern
