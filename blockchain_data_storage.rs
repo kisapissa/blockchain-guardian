@@ -3,3 +3,4 @@
 // Add support for decentralized marketplaces
 // Add unit tests for staking module
 // Refactor staking logic
+// Fix issues with ERC-20 token approvals
