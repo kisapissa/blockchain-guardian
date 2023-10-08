@@ -6,3 +6,4 @@
 // Add dynamic contract fees
 // Refactor validator reward system
 // Integrate IPFS for storage
+// Integrate privacy-preserving mechanisms
