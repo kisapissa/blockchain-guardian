@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Optimize state channels for faster transactions
 // Optimize contract upgrade process
+// Add support for ERC-721A tokens
