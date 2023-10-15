@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Enhance API rate limiting for smart contracts
 // Enhance transaction monitoring
+// Add native support for staking mechanisms
