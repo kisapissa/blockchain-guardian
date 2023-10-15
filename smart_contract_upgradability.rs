@@ -7,3 +7,4 @@
 // Update testing framework for Solidity
 // Add support for decentralized content distribution
 // Refactor Ethereum gas price management
+// Add support for delegation in governance
