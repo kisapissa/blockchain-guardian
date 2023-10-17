@@ -2,3 +2,4 @@
 // Add fallback mechanism in Solidity contract
 // Integrate IPFS for storage
 // Integrate IPFS for storage
+// Add support for zk-SNARKs in smart contracts
