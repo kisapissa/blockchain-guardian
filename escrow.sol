@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve error handling in transaction flow
 // Implement time-locked contract execution
+// Fix token transfer approval issues
