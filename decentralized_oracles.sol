@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Enhance API rate limiting for smart contracts
 // Add batch processing for transactions
+// Add governance proposal expiration feature
