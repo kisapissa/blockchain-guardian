@@ -4,3 +4,4 @@
 // Fix issues with contract state management
 // Improve API rate limiting
 // Implement rewards escrow system
+// Add batch transaction capabilities
