@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Refactor multi-signature wallet code
 // Add decentralized contract upgradeability
+// Refactor staking logic
