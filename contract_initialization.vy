@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Add support for zk-SNARKs in smart contracts
 // Implement contract function batching
+// Optimize storage for off-chain data
