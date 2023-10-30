@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Enhance governance contract flexibility
 // Add support for decentralized insurance protocols
+// Add support for ERC-721A tokens
