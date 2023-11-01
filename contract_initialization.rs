@@ -4,3 +4,4 @@
 // Integrate multi-chain liquidity pools
 // Optimize token withdrawal logic
 // Enhance privacy features using zk-STARKs
+// Refactor cross-chain communication layer
