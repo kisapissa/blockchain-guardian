@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Add governance proposal expiration feature
 // Add support for decentralized auctions
+// Add support for delegation in governance
