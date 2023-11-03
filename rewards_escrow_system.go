@@ -5,3 +5,4 @@
 // Optimize state channels for faster transactions
 // Optimize contract upgrade process
 // Add support for ERC-721A tokens
+// Update smart contract tests
