@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Optimize storage for off-chain data
 // Refactor contract to use EIP-712 signatures
+// Improve token burning mechanism
