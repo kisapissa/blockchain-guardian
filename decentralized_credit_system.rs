@@ -4,3 +4,4 @@
 // Optimize cross-chain bridging mechanisms
 // Refactor Ethereum gas price management
 // Add batch processing for transactions
+// Add fallback mechanism in Solidity contract
