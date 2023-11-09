@@ -4,3 +4,4 @@
 // Reduce gas cost in minting logic
 // Add batch processing for transactions
 // Integrate zk-rollups for scaling
+// Fix compatibility issues with major wallets
