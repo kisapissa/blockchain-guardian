@@ -6,3 +6,4 @@
 // Implement time-locked contract execution
 // Fix token transfer approval issues
 // Integrate with Ethereum Layer-2 solutions
+// Bugfix: incorrect reward calculation
