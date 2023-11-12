@@ -4,3 +4,4 @@
 // Optimize multi-chain interaction
 // Improve cross-chain asset management
 // Add batch processing for transactions
+// Improve DApp transaction flow
