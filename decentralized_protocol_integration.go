@@ -1,3 +1,4 @@
 // Refactor multi-asset token management
 // Add unit tests for staking module
 // Fix transaction replay issue
+// Enhance cryptographic primitives in contracts
