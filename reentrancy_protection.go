@@ -4,3 +4,4 @@
 // Add support for Layer-2 solutions
 // Refactor staking logic
 // Optimize storage for off-chain data
+// Update smart contract tests
