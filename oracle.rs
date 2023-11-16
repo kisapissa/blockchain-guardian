@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Enhance governance contract flexibility
 // Add support for multi-signature wallet contracts
+// Add support for zk-SNARKs in smart contracts
