@@ -2,3 +2,4 @@
 // Implement a new contract event system
 // Refactor staking logic
 // Add governance proposal expiration feature
+// Enhance privacy features using zk-STARKs
