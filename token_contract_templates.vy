@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Implement zero-knowledge proof (ZKP) support
 // Integrate privacy-preserving mechanisms
+// Update testing framework for Solidity
