@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Integrate privacy-preserving mechanisms
 // Update testing framework for Solidity
+// Add support for Layer-2 solutions
