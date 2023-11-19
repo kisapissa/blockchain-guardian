@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Add support for multi-signature wallet contracts
 // Add support for zk-SNARKs in smart contracts
+// Add governance proposal expiration feature
