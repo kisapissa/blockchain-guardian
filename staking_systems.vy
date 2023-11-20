@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Optimize gas usage in contract execution
 // Add support for zk-SNARKs in smart contracts
+// Refactor reward pooling algorithm
