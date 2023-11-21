@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Integrate zk-rollups for scaling
 // Refactor staking logic
+// Add gas optimization features for smart contracts
