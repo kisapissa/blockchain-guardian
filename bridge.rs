@@ -4,3 +4,4 @@
 // Integrate with decentralized storage systems
 // Implement emergency stop mechanism
 // Fix ERC-1155 contract interactions
+// Add fallback mechanism in Solidity contract
