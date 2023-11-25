@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Add multi-chain governance support
 // Improve error handling in transaction flow
+// Add multi-chain governance support
