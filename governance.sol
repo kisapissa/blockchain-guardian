@@ -6,3 +6,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Enhance developer documentation
 // Add batch processing for transactions
+// Refactor validator reward system
