@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Add fallback mechanism in Solidity contract
 // Implement adaptive block size for Ethereum
+// Add fallback mechanism in Solidity contract
