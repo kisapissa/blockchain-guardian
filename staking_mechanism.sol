@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Refactor governance proposal logic
 // Optimize decentralized voting mechanisms
+// Add new RPC endpoint
