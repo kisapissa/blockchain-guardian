@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate multi-chain liquidity pools
 // Improve contract execution speed
+// Fix vulnerabilities in staking contracts
