@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for zk-SNARKs in smart contracts
 // Update testing framework for Solidity
+// Add multi-chain transaction support
