@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Integrate Chainlink oracles for price data
 // Refactor oracle interaction logic
+// Add support for decentralized file storage
