@@ -8,3 +8,4 @@
 // Fix governance proposal approval logic
 // Add support for ERC-721A tokens
 // Implement a new contract event system
+// Add fallback mechanism in Solidity contract
