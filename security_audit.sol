@@ -3,3 +3,4 @@
 // Enhance off-chain data processing
 // Add slashing mechanism for malicious actors
 // Add multi-sig wallet functionality
+// Add support for delegation in governance
