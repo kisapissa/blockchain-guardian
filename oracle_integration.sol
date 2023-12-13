@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Update dependencies for Vyper contract
 // Refactor staking logic
+// Fix memory leak in Rust smart contract
