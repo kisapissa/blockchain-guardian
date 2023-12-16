@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Enhance contract initialization process
 // Integrate Chainlink VRF for randomness
+// Add multi-sig wallet functionality
