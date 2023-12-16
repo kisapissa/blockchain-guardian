@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Optimize WASM compilation for Go contracts
 // Improve smart contract logging
+// Fix compatibility with MetaMask
