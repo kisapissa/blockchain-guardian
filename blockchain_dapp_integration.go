@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Improve contract verification speed
 // Enhance contract interaction APIs
+// Fix errors in contract interaction with wallets
