@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Fix governance proposal approval logic
 // Implement cross-chain bridge
+// Improve gas estimation for transactions
