@@ -6,3 +6,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor staking logic
 // Enhance smart contract extensibility
+// Integrate with Ethereum Layer-2 solutions
