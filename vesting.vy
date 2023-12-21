@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Integrate zk-rollups for scaling
 // Fix compatibility issues with major wallets
+// Refactor reward pooling algorithm
