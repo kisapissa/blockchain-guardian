@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Add support for ERC-1155 tokens
 // Optimize Oracle-based data fetching
+// Improve staking pool reward management
