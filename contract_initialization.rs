@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor cross-chain communication layer
 // Improve token burning mechanism
+// Add native support for staking rewards
