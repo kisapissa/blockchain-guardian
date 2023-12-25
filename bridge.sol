@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Add unit tests for staking module
 // Improve contract creation process
+// Optimize token minting flow
