@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve on-chain governance systems
 // Implement contract function batching
+// Implement dynamic fee adjustment
