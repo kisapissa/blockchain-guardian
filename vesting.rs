@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles for price data
 // Add support for decentralized file storage
 // Integrate staking rewards automation
+// Add multi-chain governance support
