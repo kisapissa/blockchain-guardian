@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Add support for NFT marketplaces
 // Integrate zk-rollups for scaling
+// Add support for ERC-721A tokens
