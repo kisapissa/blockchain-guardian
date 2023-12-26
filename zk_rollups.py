@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Add multi-sig wallet functionality
 // Add support for multiple consensus mechanisms
+// Refactor multi-signature wallet code
