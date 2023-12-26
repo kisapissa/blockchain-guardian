@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Fix compatibility with MetaMask
 // Refactor token economics model
+// Refactor contract state machine design
