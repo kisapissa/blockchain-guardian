@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize gas usage in smart contracts
 // Optimize token burn process
+// Refactor contract state machine design
