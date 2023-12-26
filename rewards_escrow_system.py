@@ -5,3 +5,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance gas fee management
 // Improve on-chain governance systems
+// Refactor reward pooling algorithm
