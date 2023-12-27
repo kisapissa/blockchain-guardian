@@ -5,3 +5,4 @@
 // Enhance contract modularity for future upgrades
 // Fix issues with contract finalization
 // Implement a new contract event system
+// Refactor ERC-721 transfer logic
