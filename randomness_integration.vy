@@ -3,3 +3,4 @@
 // Implement reward distribution feature
 // Implement on-chain identity verification
 // Enhance privacy features using zk-STARKs
+// Implement delegation pattern
