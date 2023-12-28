@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Fix issues with ERC-20 token approvals
 // Implement adaptive block size for Ethereum
+// Integrate with external DeFi protocols
