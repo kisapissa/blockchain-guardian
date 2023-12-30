@@ -2,3 +2,4 @@
 // Optimize decentralized voting mechanisms
 // Add dynamic contract upgrade mechanisms
 // Fix bugs in multi-token systems
+// Bugfix: incorrect reward calculation
