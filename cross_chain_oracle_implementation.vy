@@ -2,3 +2,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Add native support for staking rewards
 // Implement automatic transaction retries
+// Refactor incentive structure in DeFi protocol
