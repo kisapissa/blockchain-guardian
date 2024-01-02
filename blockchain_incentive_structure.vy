@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Improve security in decentralized applications
 // Optimize token burn process
+// Add support for yield farming rewards
