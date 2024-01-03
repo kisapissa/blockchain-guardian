@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Optimize multi-chain interaction
 // Add support for decentralized insurance protocols
+// Add multi-sig wallet functionality
