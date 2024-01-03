@@ -7,3 +7,4 @@
 // Add new feature: on-chain governance
 // Add support for multiple consensus mechanisms
 // Integrate IPFS for storage
+// Optimize token minting flow
