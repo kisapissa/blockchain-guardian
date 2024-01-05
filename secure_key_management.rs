@@ -2,3 +2,4 @@
 // Improve security for token minting contracts
 // Implement decentralized arbitration in contracts
 // Improve gas estimation for transactions
+// Refactor staking logic
