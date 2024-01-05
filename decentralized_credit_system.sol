@@ -3,3 +3,4 @@
 // Refactor cross-chain communication layer
 // Refactor validator reward system
 // Improve transaction batching efficiency
+// Integrate with decentralized prediction markets
