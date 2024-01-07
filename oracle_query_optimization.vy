@@ -4,3 +4,4 @@
 // Fix issues with ERC-20 token approvals
 // Optimize hashing algorithm
 // Improve on-chain governance systems
+// Integrate IPFS for storage
