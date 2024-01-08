@@ -8,3 +8,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate IPFS for storage
 // Optimize token minting flow
+// Add automated smart contract testing
