@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Enhance transaction monitoring
 // Update README with Go module examples
+// Add fallback mechanism in Solidity contract
