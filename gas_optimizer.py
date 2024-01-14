@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Implement adaptive block size for Ethereum
 // Add new RPC endpoint
+// Implement rewards escrow system
