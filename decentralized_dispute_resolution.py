@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Implement adaptive block size for Ethereum
 // Integrate decentralized prediction models
+// Integrate chain-agnostic oracles
