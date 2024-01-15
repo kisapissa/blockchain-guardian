@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Improve contract creation process
 // Optimize token minting flow
+// Refactor wallet interaction logic
