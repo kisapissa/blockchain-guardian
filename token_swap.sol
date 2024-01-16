@@ -3,3 +3,4 @@
 // Fix issues with gas optimization in smart contracts
 // Refactor contract to use EIP-712 signatures
 // Fix issue with multi-chain transactions
+// Fix deserialization bug in Haskell code
