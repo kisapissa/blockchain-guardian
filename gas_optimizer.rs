@@ -5,3 +5,4 @@
 // Fix data consistency issues in smart contracts
 // Enhance smart contract compatibility
 // Optimize hashing algorithm
+// Integrate IPFS for storage
