@@ -3,3 +3,4 @@
 // Add automated token buyback mechanism
 // Optimize gas usage in smart contracts
 // Fix type mismatch in Haskell smart contract
+// Add support for ERC-721A tokens
