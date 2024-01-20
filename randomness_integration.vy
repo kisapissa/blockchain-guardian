@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Enhance privacy features using zk-STARKs
 // Implement delegation pattern
+// Upgrade to latest Solidity version
