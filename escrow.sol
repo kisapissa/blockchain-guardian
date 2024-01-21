@@ -8,3 +8,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Bugfix: incorrect reward calculation
 // Integrate flash loan functionality
+// Refactor reward pooling algorithm
