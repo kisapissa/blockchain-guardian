@@ -5,3 +5,4 @@
 // Improve smart contract code modularity
 // Fix errors in contract interaction with wallets
 // Optimize decentralized application performance
+// Fix issues with token vesting contracts
