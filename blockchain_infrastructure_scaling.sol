@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Optimize token minting flow
 // Refactor decentralized exchange (DEX) code
+// Integrate Chainlink oracles
