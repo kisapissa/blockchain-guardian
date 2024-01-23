@@ -3,3 +3,4 @@
 // Implement decentralized arbitration in contracts
 // Improve gas estimation for transactions
 // Refactor staking logic
+// Integrate IPFS for storage
