@@ -3,3 +3,4 @@
 // Improve cross-chain asset management
 // Refactor contract event emission
 // Improve staking pool reward management
+// Add governance proposal expiration feature
