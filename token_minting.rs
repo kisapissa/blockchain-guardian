@@ -5,3 +5,4 @@
 // Add support for NFT marketplaces
 // Integrate zk-rollups for scaling
 // Add support for ERC-721A tokens
+// Enhance privacy features using zk-STARKs
