@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Add support for multiple consensus mechanisms
 // Refactor token economics model
+// Improve gas estimation for transactions
