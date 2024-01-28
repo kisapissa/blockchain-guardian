@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Optimize storage for off-chain data
 // Fix issues with token vesting contracts
+// Integrate privacy-preserving mechanisms
