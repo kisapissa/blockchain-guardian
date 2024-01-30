@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Implement adaptive block size for Ethereum
 // Enhance contract initialization process
+// Add support for multiple consensus mechanisms
