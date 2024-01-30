@@ -3,3 +3,4 @@
 // Enhance contract event handling
 // Refactor decentralized exchange (DEX) code
 // Improve gas estimation for transactions
+// Fix governance proposal approval logic
