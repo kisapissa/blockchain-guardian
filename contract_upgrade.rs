@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Improve token burning mechanism
 // Implement dynamic fee adjustment
+// Optimize Oracle-based data fetching
