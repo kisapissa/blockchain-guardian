@@ -10,3 +10,4 @@
 // Implement a new contract event system
 // Add fallback mechanism in Solidity contract
 // Add support for DeFi lending protocols
+// Add support for multiple consensus mechanisms
