@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Improve staking and yield farming logic
 // Improve contract interaction via APIs
+// Implement dynamic fee adjustment
