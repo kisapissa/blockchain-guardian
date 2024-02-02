@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Optimize contract upgrade process
 // Fix bugs in multi-token systems
+// Add support for ERC-1155 tokens
