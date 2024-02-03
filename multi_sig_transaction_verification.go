@@ -8,3 +8,4 @@
 // Implement adaptive block size for Ethereum
 // Add fallback mechanism in Solidity contract
 // Implement a new contract event system
+// Optimize storage for off-chain data
