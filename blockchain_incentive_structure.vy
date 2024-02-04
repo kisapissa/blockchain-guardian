@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Add support for yield farming rewards
 // Refactor token economics model
+// Integrate flash loan functionality
