@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Implement reward distribution feature
 // Optimize token burn process
+// Add multi-chain governance support
