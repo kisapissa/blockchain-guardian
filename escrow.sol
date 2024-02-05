@@ -9,3 +9,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate flash loan functionality
 // Refactor reward pooling algorithm
+// Implement cross-platform contract compatibility
