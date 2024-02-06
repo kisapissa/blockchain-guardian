@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Add batch processing for transactions
 // Improve ERC-721 token metadata functionality
+// Fix overflow bug in token calculation
