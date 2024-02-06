@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Refactor token economics model
 // Refactor contract state machine design
+// Add support for DeFi lending protocols
