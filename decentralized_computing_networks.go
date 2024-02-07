@@ -4,3 +4,4 @@
 // Add support for decentralized content distribution
 // Enhance privacy features using zk-STARKs
 // Enhance governance contract flexibility
+// Fix ERC-20 token interface bugs
