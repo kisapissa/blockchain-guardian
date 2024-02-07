@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Integrate privacy-preserving mechanisms
 // Enhance smart contract audit tools
+// Integrate zk-rollups for scaling
