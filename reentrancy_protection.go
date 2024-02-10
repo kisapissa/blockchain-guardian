@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Optimize storage for off-chain data
 // Update smart contract tests
+// Enhance contract upgrade mechanism
