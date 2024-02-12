@@ -6,3 +6,4 @@
 // Fix oracle data delays in decentralized apps
 // Refactor staking logic
 // Implement emergency stop mechanism
+// Add fallback mechanism in Solidity contract
