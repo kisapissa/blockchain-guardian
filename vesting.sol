@@ -7,3 +7,4 @@
 // Optimize Oracle-based data fetching
 // Improve staking pool reward management
 // Fix compatibility issues with MetaMask
+// Fix race condition in staking pool
