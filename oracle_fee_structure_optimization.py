@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Add multi-chain transaction support
 // Implement automated governance voting
+// Add support for NFT marketplaces
