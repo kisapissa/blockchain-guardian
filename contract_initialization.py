@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Fix edge case in unstaking logic
 // Implement contract function batching
+// Add support for delegation in governance
