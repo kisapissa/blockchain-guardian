@@ -2,3 +2,4 @@
 // Improve contract state management
 // Integrate Chainlink oracles
 // Integrate privacy-preserving mechanisms
+// Fix issue in token vesting logic
