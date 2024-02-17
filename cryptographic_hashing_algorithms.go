@@ -3,3 +3,4 @@
 // Add support for yield farming rewards
 // Refactor contract event emission
 // Improve contract auditing tools
+// Fix issues in multi-token smart contracts
