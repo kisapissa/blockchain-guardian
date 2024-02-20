@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance governance contract flexibility
 // Optimize storage for off-chain data
+// Optimize storage for off-chain data
