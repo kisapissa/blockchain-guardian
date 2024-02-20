@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Implement contract function batching
 // Add support for delegation in governance
+// Add support for cross-chain bridges
