@@ -3,3 +3,4 @@
 // Refactor decentralized storage system
 // Fix compatibility issues with MetaMask
 // Enhance logging for better debugging
+// Refactor storage layout for better efficiency
