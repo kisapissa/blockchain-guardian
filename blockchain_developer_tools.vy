@@ -3,3 +3,4 @@
 // Refactor multi-asset token management
 // Refactor validator reward system
 // Refactor voting mechanism
+// Optimize WASM compilation for Go contracts
