@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Fix bug in random number generation
 // Improve staking and yield farming logic
+// Update README with Go module examples
