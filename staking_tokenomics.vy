@@ -2,3 +2,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix issues with cross-chain transaction finality
 // Fix transaction replay issue
+// Integrate with decentralized identity providers
