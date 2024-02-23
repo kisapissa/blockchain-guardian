@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Refactor voting mechanism
 // Improve ERC-721 token metadata functionality
+// Add governance proposal expiration feature
