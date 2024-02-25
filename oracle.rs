@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add governance proposal expiration feature
 // Enhance gas fee management
+// Fix token transfer approval issues
