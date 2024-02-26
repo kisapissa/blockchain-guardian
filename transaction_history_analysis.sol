@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve scalability for smart contract platforms
 // Enhance smart contract state changes monitoring
+// Refactor incentive structure in DeFi protocol
