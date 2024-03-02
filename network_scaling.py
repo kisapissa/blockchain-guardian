@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Fix interoperability issues with other blockchains
 // Enhance contract interaction APIs
+// Improve DApp transaction flow
