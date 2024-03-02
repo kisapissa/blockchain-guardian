@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Optimize token burn process
 // Improve contract state management
+// Integrate privacy-preserving mechanisms
