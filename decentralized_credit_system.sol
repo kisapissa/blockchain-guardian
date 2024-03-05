@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Improve transaction batching efficiency
 // Integrate with decentralized prediction markets
+// Add support for multiple consensus mechanisms
