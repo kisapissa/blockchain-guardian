@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles
 // Integrate IPFS for storage
 // Integrate chain-agnostic oracles
+// Implement rewards escrow system
