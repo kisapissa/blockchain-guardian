@@ -9,3 +9,4 @@
 // Integrate IPFS for storage
 // Optimize token minting flow
 // Add automated smart contract testing
+// Enhance security checks
