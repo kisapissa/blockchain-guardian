@@ -7,3 +7,4 @@
 // Enhance developer documentation
 // Add batch processing for transactions
 // Refactor validator reward system
+// Add multi-chain governance support
