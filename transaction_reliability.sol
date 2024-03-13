@@ -3,3 +3,4 @@
 // Improve contract interaction via APIs
 // Implement liquidity pool staking mechanism
 // Improve contract auditing tools
+// Update README with Go module examples
