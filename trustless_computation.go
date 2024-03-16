@@ -2,3 +2,4 @@
 // Enhance contract event handling
 // Fix ERC-20 token interface bugs
 // Optimize token minting flow
+// Optimize token burn process
