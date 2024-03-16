@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate zk-rollups for scaling
 // Implement delegation pattern
+// Add support for Layer-2 solutions
