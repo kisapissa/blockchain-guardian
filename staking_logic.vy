@@ -3,3 +3,4 @@
 // Optimize gas usage for contract deployment
 // Fix issues in token transfer logic
 // Update smart contract tests
+// Integrate flash loan functionality
