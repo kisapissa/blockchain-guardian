@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract upgradeability
 // Integrate privacy-preserving mechanisms
+// Add support for DeFi lending protocols
