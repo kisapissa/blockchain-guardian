@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Implement reward distribution feature
 // Fix contract reentrancy issues
+// Add new feature: on-chain governance
