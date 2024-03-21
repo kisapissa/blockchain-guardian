@@ -6,3 +6,4 @@
 // Enhance API rate limiting for smart contracts
 // Refactor staking logic
 // Add unit tests for staking module
+// Improve transaction batching efficiency
