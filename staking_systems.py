@@ -5,3 +5,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate automated market maker (AMM) logic
 // Enhance contract event handling
+// Fix security vulnerability in random number generation
