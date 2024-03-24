@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Fix issue with multi-chain transactions
 // Implement contract function batching
+// Fix issues with token vesting contracts
