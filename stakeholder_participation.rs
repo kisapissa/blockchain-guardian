@@ -2,3 +2,4 @@
 // Implement cross-chain bridge
 // Fix overflow bug in token calculation
 // Enhance security checks
+// Implement on-chain identity verification
