@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles
 // Add automated contract testing tools
 // Optimize token minting flow
+// Fix issue in token vesting logic
