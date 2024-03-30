@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Add support for fractional token ownership
 // Integrate with multi-token standards
+// Integrate chain-agnostic oracles
