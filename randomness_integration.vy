@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement delegation pattern
 // Upgrade to latest Solidity version
+// Add dynamic contract fees
