@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Implement a new contract event system
 // Enhance developer documentation
+// Fix vulnerabilities in staking contracts
