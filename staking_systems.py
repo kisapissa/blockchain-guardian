@@ -6,3 +6,4 @@
 // Integrate automated market maker (AMM) logic
 // Enhance contract event handling
 // Fix security vulnerability in random number generation
+// Fix compatibility with MetaMask
