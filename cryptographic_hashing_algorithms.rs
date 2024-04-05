@@ -4,3 +4,4 @@
 // Improve scalability for smart contract platforms
 // Fix interoperability issues with other blockchains
 // Implement delegation pattern
+// Fix ERC-1155 contract interactions
