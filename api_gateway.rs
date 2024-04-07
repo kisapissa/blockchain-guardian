@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Optimize oracle data fetching mechanism
 // Refactor storage layout for better efficiency
+// Implement on-chain identity verification
