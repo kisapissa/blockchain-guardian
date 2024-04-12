@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Fix issues in multi-token smart contracts
 // Add support for DeFi lending protocols
+// Enhance contract upgrade mechanism
