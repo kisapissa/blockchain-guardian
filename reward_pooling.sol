@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Add multi-chain transaction support
 // Refactor staking logic
+// Fix issues with cross-chain transaction finality
