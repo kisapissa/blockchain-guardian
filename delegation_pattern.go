@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Integrate Chainlink VRF for randomness
 // Refactor token economics model
+// Implement delegation pattern
