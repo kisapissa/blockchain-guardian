@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Add new feature: on-chain governance
 // Add support for DeFi lending protocols
+// Improve smart contract logging
