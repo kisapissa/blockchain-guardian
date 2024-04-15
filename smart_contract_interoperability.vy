@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Add unit tests for staking module
 // Improve API rate limiting
+// Refactor storage layout for better efficiency
