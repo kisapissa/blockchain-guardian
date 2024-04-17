@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Improve transaction batching efficiency
 // Enhance contract interaction APIs
+// Code cleanup and documentation update
