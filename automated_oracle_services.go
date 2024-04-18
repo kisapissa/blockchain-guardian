@@ -5,3 +5,4 @@
 // Add multi-chain governance support
 // Improve error handling in transaction flow
 // Add multi-chain governance support
+// Add multi-sig wallet functionality
