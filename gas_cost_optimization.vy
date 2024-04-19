@@ -9,3 +9,4 @@
 // Improve oracle data validation mechanisms
 // Enhance privacy features using zk-STARKs
 // Fix transaction replay issue
+// Add support for ERC-721A tokens
