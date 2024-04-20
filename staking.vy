@@ -9,3 +9,4 @@
 // Enhance decentralized autonomous governance
 // Enhance smart contract extensibility
 // Fix compatibility issues with major wallets
+// Improve decentralized oracle protocols
