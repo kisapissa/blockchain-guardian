@@ -8,3 +8,4 @@
 // Enhance smart contract audit tools
 // Enhance decentralized autonomous governance
 // Enhance smart contract extensibility
+// Fix compatibility issues with major wallets
