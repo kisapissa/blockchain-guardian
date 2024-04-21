@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Optimize cross-chain bridging mechanisms
 // Fix transaction replay issue
+// Add non-fungible token (NFT) support
