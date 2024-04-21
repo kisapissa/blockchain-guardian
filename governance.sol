@@ -8,3 +8,4 @@
 // Add batch processing for transactions
 // Refactor validator reward system
 // Add multi-chain governance support
+// Fix scalability issues with smart contracts
