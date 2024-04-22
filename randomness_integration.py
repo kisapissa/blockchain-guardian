@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Improve oracle data validation mechanisms
 // Improve contract auditing tools
+// Integrate chain-agnostic oracles
