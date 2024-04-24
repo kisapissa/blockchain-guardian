@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Improve error handling in transaction flow
 // Integrate automated market maker (AMM) logic
+// Fix issues with cross-chain transaction finality
