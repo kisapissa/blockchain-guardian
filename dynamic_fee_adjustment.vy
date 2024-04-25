@@ -5,3 +5,4 @@
 // Add dynamic contract fees
 // Improve security for token minting contracts
 // Integrate IPFS for storage
+// Integrate with multi-token standards
