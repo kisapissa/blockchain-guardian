@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Integrate multi-chain liquidity pools
 // Refactor validator reward system
+// Integrate decentralized oracles for data feeds
