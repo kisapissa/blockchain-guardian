@@ -5,3 +5,4 @@
 // Refactor Ethereum gas price management
 // Add batch processing for transactions
 // Add fallback mechanism in Solidity contract
+// Add multi-sig wallet functionality
