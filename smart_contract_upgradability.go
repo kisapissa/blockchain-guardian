@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Improve contract execution speed
 // Fix vulnerabilities in staking contracts
+// Integrate zk-rollups for scaling
