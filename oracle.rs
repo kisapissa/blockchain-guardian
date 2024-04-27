@@ -9,3 +9,4 @@
 // Add governance proposal expiration feature
 // Enhance gas fee management
 // Fix token transfer approval issues
+// Improve gas estimation for transactions
