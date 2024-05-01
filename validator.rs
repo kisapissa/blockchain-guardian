@@ -5,3 +5,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Improve gas estimation for transactions
 // Fix wallet interaction issues in DeFi protocols
+// Improve on-chain governance systems
