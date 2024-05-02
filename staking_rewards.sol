@@ -2,3 +2,4 @@
 // Add batch transaction capabilities
 // Add support for decentralized insurance protocols
 // Add support for decentralized auctions
+// Implement zero-knowledge proof (ZKP) support
