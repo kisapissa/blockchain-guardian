@@ -9,3 +9,4 @@
 // Enhance smart contract state changes monitoring
 // Enhance contract event handling
 // Improve contract auditing tools
+// Refactor contract to use EIP-712 signatures
