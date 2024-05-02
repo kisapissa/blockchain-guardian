@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Improve staking and yield farming logic
 // Implement price feed oracles for tokens
+// Improve contract auditing tools
