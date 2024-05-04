@@ -10,3 +10,4 @@
 // Refactor governance token logic
 // Fix issues with cross-chain transaction finality
 // Improve contract state management
+// Refactor contract state machine design
