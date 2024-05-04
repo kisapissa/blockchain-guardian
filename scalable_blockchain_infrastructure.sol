@@ -4,3 +4,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve smart contract logging
 // Fix compatibility with MetaMask
+// Improve ERC-721 token metadata functionality
