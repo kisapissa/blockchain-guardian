@@ -6,3 +6,4 @@
 // Fix issues with contract finalization
 // Implement a new contract event system
 // Refactor ERC-721 transfer logic
+// Implement cross-chain bridge
