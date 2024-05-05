@@ -8,3 +8,4 @@
 // Fix bugs in decentralized exchange routing
 // Optimize multi-chain interaction
 // Fix issues with token vesting contracts
+// Integrate Chainlink oracles for price data
