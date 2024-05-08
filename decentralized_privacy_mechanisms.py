@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Fix transaction replay issue
 // Refactor validator reward system
+// Implement on-chain fee adjustment mechanisms
