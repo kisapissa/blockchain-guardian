@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Implement cross-chain bridge
 // Improve contract interaction via APIs
+// Improve error handling in transaction flow
