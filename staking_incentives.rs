@@ -5,3 +5,4 @@
 // Enhance contract upgrade process
 // Optimize WASM compilation for Go contracts
 // Improve staking logic for better rewards
+// Refactor staking logic
