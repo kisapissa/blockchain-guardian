@@ -8,3 +8,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Fix issue with multi-chain transactions
 // Refactor governance token logic
+// Enhance privacy features using zk-STARKs
