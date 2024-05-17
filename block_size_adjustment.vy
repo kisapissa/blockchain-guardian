@@ -5,3 +5,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Optimize gas usage in smart contracts
 // Add native support for staking rewards
+// Refactor storage layout for better efficiency
