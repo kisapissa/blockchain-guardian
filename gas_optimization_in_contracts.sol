@@ -6,3 +6,4 @@
 // Implement price feed oracles for tokens
 // Implement adaptive block size for Ethereum
 // Update README with Go module examples
+// Refactor reward pooling algorithm
