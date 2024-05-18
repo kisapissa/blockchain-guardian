@@ -2,3 +2,4 @@
 // Add batch transaction capabilities
 // Refactor contract to use EIP-712 signatures
 // Enhance contract event handling
+// Fix issues with cross-chain transaction finality
