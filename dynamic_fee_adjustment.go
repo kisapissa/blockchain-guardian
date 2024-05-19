@@ -12,3 +12,4 @@
 // Add support for DeFi lending protocols
 // Add support for multiple consensus mechanisms
 // Reduce gas cost in minting logic
+// Improve decentralized exchange (DEX) liquidity
