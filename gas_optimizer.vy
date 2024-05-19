@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Enhance contract initialization process
 // Optimize token minting flow
+// Fix governance proposal approval logic
