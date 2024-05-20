@@ -6,3 +6,4 @@
 // Enhance governance contract flexibility
 // Fix ERC-20 token interface bugs
 // Fix issue with multi-chain transactions
+// Refactor reward pooling algorithm
