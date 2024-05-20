@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance decentralized autonomous governance
 // Fix bugs in multi-token systems
+// Refactor staking logic
