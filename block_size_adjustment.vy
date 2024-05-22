@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Add native support for staking rewards
 // Refactor storage layout for better efficiency
+// Implement cross-chain bridge
