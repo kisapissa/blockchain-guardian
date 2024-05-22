@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Enhance cryptographic primitives in contracts
 // Fix vulnerabilities in staking contracts
+// Optimize token minting flow
