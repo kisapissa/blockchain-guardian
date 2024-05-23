@@ -4,3 +4,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix compatibility issues with MetaMask
 // Code cleanup and documentation update
+// Fix issues with token vesting contracts
