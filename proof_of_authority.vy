@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Add support for decentralized auctions
 // Fix bugs in decentralized exchange routing
+// Refactor reward pooling algorithm
