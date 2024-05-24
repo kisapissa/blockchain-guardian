@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Add support for NFT marketplaces
 // Integrate with decentralized storage systems
+// Add support for decentralized marketplaces
