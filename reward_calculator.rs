@@ -5,3 +5,4 @@
 // Add support for decentralized insurance protocols
 // Add support for ERC-721A tokens
 // Optimize gas usage in smart contracts
+// Fix issues with token vesting contracts
