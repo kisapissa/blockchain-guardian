@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Implement dynamic fee adjustment
 // Add unit tests for staking module
+// Add non-fungible token (NFT) support
