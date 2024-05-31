@@ -10,3 +10,4 @@
 // Add multi-chain governance support
 // Fix scalability issues with smart contracts
 // Add support for multiple consensus mechanisms
+// Add support for yield farming rewards
