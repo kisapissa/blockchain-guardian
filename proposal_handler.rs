@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Implement price feed oracles for tokens
 // Improve contract auditing tools
+// Refactor governance token logic
