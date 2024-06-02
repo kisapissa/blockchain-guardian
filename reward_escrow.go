@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Enhance token swap functionality
 // Integrate with external DeFi protocols
+// Fix governance proposal approval logic
