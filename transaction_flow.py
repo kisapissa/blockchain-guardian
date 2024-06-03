@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Add governance proposal expiration feature
 // Add support for zk-SNARKs in smart contracts
+// Fix issue with multi-chain transactions
