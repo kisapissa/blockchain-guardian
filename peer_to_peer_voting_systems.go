@@ -2,3 +2,4 @@
 // Fix bug in random number generation
 // Enhance gas fee management
 // Enhance decentralized autonomous governance
+// Fix issue in token vesting logic
