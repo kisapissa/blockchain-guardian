@@ -2,3 +2,4 @@
 // Improve contract state management
 // Optimize hashing algorithm
 // Refactor staking logic
+// Refactor decentralized governance structure
