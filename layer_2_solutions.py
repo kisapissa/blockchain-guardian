@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Code cleanup and documentation update
 // Fix issues with token vesting contracts
+// Implement on-chain identity verification
