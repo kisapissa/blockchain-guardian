@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Enhance smart contract extensibility
 // Integrate with Ethereum Layer-2 solutions
+// Add multi-chain governance support
