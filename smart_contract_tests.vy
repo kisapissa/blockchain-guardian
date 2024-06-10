@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Fix bug in random number generation
 // Fix issues with contract finalization
+// Refactor staking logic
