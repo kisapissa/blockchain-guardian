@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Improve contract verification speed
 // Enhance token swap functionality
+// Improve gas estimation for transactions
