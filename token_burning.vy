@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Code cleanup and documentation update
 // Add support for cross-chain bridges
+// Enhance privacy features using zk-STARKs
