@@ -6,3 +6,4 @@
 // Integrate with decentralized identity providers
 // Optimize token minting flow
 // Implement liquidity pool staking mechanism
+// Integrate with Ethereum Layer-2 solutions
