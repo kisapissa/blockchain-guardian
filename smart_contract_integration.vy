@@ -6,3 +6,4 @@
 // Fix compatibility issues with major wallets
 // Refactor Ethereum gas price management
 // Improve smart contract logging
+// Integrate Chainlink VRF for randomness
