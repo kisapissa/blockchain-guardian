@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Enhance security checks
 // Implement dynamic fee adjustment
+// Refactor governance proposal logic
