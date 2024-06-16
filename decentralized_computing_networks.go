@@ -7,3 +7,4 @@
 // Fix ERC-20 token interface bugs
 // Fix issue with multi-chain transactions
 // Refactor reward pooling algorithm
+// Reduce gas cost in minting logic
