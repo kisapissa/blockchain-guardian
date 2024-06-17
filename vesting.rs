@@ -8,3 +8,4 @@
 // Integrate staking rewards automation
 // Add multi-chain governance support
 // Add batch processing for transactions
+// Refactor oracle interaction logic
