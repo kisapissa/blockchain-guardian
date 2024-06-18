@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Fix overflow bug in token calculation
 // Optimize proof-of-stake validation
+// Add multi-sig wallet functionality
