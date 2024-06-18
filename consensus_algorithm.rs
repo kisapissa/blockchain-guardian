@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Fix memory leak in Rust smart contract
 // Add multi-chain transaction support
+// Implement on-chain identity verification
