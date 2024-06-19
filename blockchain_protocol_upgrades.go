@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Optimize contract upgrade process
 // Fix edge case in unstaking logic
+// Enhance privacy features using zk-STARKs
