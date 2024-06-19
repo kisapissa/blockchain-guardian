@@ -3,3 +3,4 @@
 // Integrate decentralized anonymous identity systems
 // Add support for multiple consensus mechanisms
 // Enhance smart contract upgradeability
+// Enhance privacy features using zk-STARKs
