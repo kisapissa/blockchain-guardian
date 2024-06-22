@@ -5,3 +5,4 @@
 // Improve oracle data validation mechanisms
 // Improve contract auditing tools
 // Integrate chain-agnostic oracles
+// Implement automated governance voting
