@@ -4,3 +4,4 @@
 // Optimize cross-chain bridging mechanisms
 // Fix transaction replay issue
 // Add non-fungible token (NFT) support
+// Add multi-sig wallet functionality
