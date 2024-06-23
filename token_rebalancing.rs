@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Add support for fractional token ownership
 // Code cleanup and documentation update
+// Refactor multi-signature wallet code
