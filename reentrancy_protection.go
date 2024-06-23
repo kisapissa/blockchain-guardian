@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Update smart contract tests
 // Enhance contract upgrade mechanism
+// Implement adaptive block size for Ethereum
