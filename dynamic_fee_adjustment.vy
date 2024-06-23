@@ -6,3 +6,4 @@
 // Improve security for token minting contracts
 // Integrate IPFS for storage
 // Integrate with multi-token standards
+// Fix ERC-721 contract issues with transfers
