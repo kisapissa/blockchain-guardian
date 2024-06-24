@@ -2,3 +2,4 @@
 // Add security checks for contract deployment
 // Refactor decentralized exchange (DEX) code
 // Improve token burning mechanism
+// Add unit tests for staking module
