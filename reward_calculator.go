@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Refactor contract state machine design
 // Enhance developer documentation
+// Optimize storage for off-chain data
