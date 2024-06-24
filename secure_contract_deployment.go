@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Add support for DeFi lending protocols
 // Implement delegation pattern
+// Add support for zk-SNARKs in smart contracts
