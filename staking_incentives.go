@@ -3,3 +3,4 @@
 // Add dynamic contract fees
 // Enhance contract initialization process
 // Reduce gas cost in minting logic
+// Fix overflow bug in token calculation
