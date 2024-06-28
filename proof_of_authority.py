@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Update dependencies for Vyper contract
 // Enhance contract modularity for future upgrades
+// Improve gas estimation for transactions
