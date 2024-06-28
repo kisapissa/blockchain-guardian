@@ -6,3 +6,4 @@
 // Implement rewards escrow system
 // Add batch transaction capabilities
 // Implement liquidity pool staking mechanism
+// Add support for cross-chain bridges
