@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Enhance contract interaction APIs
 // Enhance contract upgrade process
+// Add multi-sig wallet functionality
