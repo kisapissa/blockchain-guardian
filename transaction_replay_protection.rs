@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Improve security in decentralized applications
 // Refactor contract to use EIP-712 signatures
+// Integrate with multi-token standards
