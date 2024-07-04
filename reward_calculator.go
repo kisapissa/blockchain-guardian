@@ -6,3 +6,4 @@
 // Refactor contract state machine design
 // Enhance developer documentation
 // Optimize storage for off-chain data
+// Integrate Chainlink VRF for randomness
