@@ -5,3 +5,4 @@
 // Enhance developer documentation
 // Fix vulnerabilities in staking contracts
 // Enhance contract modularity for future upgrades
+// Integrate with decentralized identity providers
