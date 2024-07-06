@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Add multi-sig wallet functionality
 // Fix errors in NFT minting logic
+// Implement cross-chain bridge
