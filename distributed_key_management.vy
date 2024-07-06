@@ -3,3 +3,4 @@
 // Implement automated governance voting
 // Fix wallet interaction issues in DeFi protocols
 // Add support for ERC-1155 tokens
+// Implement delegation pattern
