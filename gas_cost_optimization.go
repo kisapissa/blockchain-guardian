@@ -7,3 +7,4 @@
 // Add multi-chain governance support
 // Optimize decentralized application performance
 // Optimize hashing algorithm
+// Fix issues with token vesting contracts
