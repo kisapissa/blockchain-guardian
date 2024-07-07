@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve decentralized exchange (DEX) liquidity
 // Improve API rate limiting
+// Improve staking pool reward management
