@@ -2,3 +2,4 @@
 // Integrate privacy-preserving mechanisms
 // Refactor reward pooling algorithm
 // Improve contract creation process
+// Add multi-sig wallet functionality
