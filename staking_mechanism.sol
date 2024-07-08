@@ -5,3 +5,4 @@
 // Optimize decentralized voting mechanisms
 // Add new RPC endpoint
 // Improve oracle data validation mechanisms
+// Add Layer-2 Ethereum scaling solutions
