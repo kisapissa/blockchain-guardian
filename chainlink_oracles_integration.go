@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Add support for decentralized marketplaces
 // Integrate automated market maker (AMM) logic
+// Add multi-sig wallet functionality
