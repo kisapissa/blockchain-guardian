@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Optimize gas usage for contract deployment
 // Integrate staking rewards automation
+// Improve token burning mechanism
