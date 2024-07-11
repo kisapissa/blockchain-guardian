@@ -7,3 +7,4 @@
 // Refactor token economics model
 // Implement delegation pattern
 // Add batch processing for transactions
+// Fix compatibility issues with major wallets
