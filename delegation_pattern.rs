@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Enhance privacy features using zk-STARKs
 // Enhance developer documentation
+// Update testing framework for Solidity
