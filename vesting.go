@@ -11,3 +11,4 @@
 // Fix issues with cross-chain transaction finality
 // Improve contract state management
 // Refactor contract state machine design
+// Improve security for token minting contracts
