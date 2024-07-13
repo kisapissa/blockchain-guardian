@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Fix errors in NFT minting logic
 // Implement cross-chain bridge
+// Integrate chain-agnostic oracles
