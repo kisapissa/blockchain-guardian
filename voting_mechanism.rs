@@ -9,3 +9,4 @@
 // Fix issue with multi-chain transactions
 // Refactor governance token logic
 // Enhance privacy features using zk-STARKs
+// Add support for NFT marketplaces
