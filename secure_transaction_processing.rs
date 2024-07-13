@@ -2,3 +2,4 @@
 // Optimize proof-of-stake validation
 // Improve token burning mechanism
 // Add support for yield farming rewards
+// Add support for decentralized credit scoring
