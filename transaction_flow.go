@@ -7,3 +7,4 @@
 // Fix issues in multi-token smart contracts
 // Add support for DeFi lending protocols
 // Enhance contract upgrade mechanism
+// Add support for zk-SNARKs in smart contracts
