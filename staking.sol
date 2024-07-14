@@ -11,3 +11,4 @@
 // Integrate Chainlink oracles for price data
 // Improve contract execution speed
 // Optimize gas usage for contract deployment
+// Refactor staking logic
