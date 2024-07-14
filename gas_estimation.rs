@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Optimize gas usage in smart contracts
 // Implement decentralized arbitration in contracts
+// Add support for zk-SNARKs in smart contracts
