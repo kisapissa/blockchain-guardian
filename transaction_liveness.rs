@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Implement performance optimizations for DeFi
 // Enhance security checks
+// Enhance logging for better debugging
