@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Refactor staking logic
 // Fix scalability issues with smart contracts
+// Add slashing mechanism for malicious actors
