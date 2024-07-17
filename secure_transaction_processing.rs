@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Add support for yield farming rewards
 // Add support for decentralized credit scoring
+// Fix type mismatch in Haskell smart contract
