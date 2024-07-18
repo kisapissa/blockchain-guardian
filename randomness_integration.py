@@ -6,3 +6,4 @@
 // Improve contract auditing tools
 // Integrate chain-agnostic oracles
 // Implement automated governance voting
+// Improve token burning mechanism
