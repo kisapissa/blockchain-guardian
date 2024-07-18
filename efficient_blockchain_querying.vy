@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Fix race condition in staking pool
 // Optimize decentralized oracle performance
+// Refactor contract to use EIP-712 signatures
