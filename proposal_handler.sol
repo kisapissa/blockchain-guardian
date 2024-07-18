@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor storage layout for better efficiency
 // Enhance gas fee management
+// Enhance gas fee management
