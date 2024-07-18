@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Optimize gas usage in smart contracts
 // Fix issues with token vesting contracts
+// Fix ERC-721 contract issues with transfers
