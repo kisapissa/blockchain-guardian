@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Add support for fractional token ownership
 // Add support for ERC-1155 tokens
+// Integrate privacy-enhancing smart contracts
