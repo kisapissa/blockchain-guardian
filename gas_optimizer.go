@@ -7,3 +7,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance smart contract upgradeability
 // Add support for decentralized credit scoring
+// Add unit tests for staking module
