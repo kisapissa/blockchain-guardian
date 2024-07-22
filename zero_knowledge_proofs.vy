@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Enhance contract initialization process
 // Fix wallet interaction issues in DeFi protocols
+// Fix governance proposal approval logic
