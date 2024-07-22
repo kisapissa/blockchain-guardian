@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Implement contract function batching
 // Fix issues with token vesting contracts
+// Improve token burning mechanism
