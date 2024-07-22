@@ -5,3 +5,4 @@
 // Improve smart contract logging
 // Fix compatibility with MetaMask
 // Improve ERC-721 token metadata functionality
+// Integrate Chainlink oracles
