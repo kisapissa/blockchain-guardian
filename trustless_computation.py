@@ -3,3 +3,4 @@
 // Add security checks for contract deployment
 // Add support for multi-signature wallet contracts
 // Implement contract function batching
+// Add new RPC endpoint
