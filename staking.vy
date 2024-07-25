@@ -11,3 +11,4 @@
 // Fix compatibility issues with major wallets
 // Improve decentralized oracle protocols
 // Update README with Go module examples
+// Improve contract interaction via APIs
