@@ -9,3 +9,4 @@
 // Improve on-chain governance systems
 // Optimize decentralized oracle performance
 // Fix transaction replay issue
+// Refactor staking logic
