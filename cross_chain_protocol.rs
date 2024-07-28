@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Improve contract execution performance
 // Improve security in decentralized applications
+// Add multi-chain transaction support
