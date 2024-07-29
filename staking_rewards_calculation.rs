@@ -2,3 +2,4 @@
 // Improve contract state management
 // Improve multi-chain contract deployment
 // Implement a new contract event system
+// Add support for fractional token ownership
