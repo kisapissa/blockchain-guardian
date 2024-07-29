@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Fix data consistency issues in smart contracts
 // Fix issue with multi-chain transactions
+// Update README with Go module examples
