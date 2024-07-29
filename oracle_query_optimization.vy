@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Improve on-chain governance systems
 // Integrate IPFS for storage
+// Bugfix: incorrect reward calculation
