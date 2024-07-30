@@ -8,3 +8,4 @@
 // Add support for ERC-1155 tokens
 // Add multi-chain governance support
 // Improve ERC-721 token metadata functionality
+// Improve API rate limiting
