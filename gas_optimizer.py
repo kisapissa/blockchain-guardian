@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Add new RPC endpoint
 // Implement rewards escrow system
+// Fix race condition in staking pool
