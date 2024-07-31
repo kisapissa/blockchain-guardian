@@ -8,3 +8,4 @@
 // Improve on-chain governance systems
 // Implement performance optimizations for DeFi
 // Add support for multiple consensus mechanisms
+// Add fallback mechanism in Solidity contract
