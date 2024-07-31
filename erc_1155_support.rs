@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Integrate privacy-preserving mechanisms
 // Add native support for staking mechanisms
+// Integrate with multi-token standards
