@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Improve token burning mechanism
 // Implement price feed oracles for tokens
+// Fix governance proposal approval logic
