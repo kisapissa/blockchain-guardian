@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Implement emergency stop mechanism
 // Enhance security checks
+// Enhance logging for better debugging
