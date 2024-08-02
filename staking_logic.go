@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Refactor wallet interaction logic
 // Add support for delegation in governance
+// Add support for decentralized content distribution
