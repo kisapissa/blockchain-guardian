@@ -11,3 +11,4 @@
 // Fix scalability issues with smart contracts
 // Add support for multiple consensus mechanisms
 // Add support for yield farming rewards
+// Refactor storage layout for better efficiency
