@@ -6,3 +6,4 @@
 // Fix security vulnerability in random number generation
 // Optimize oracle data fetching mechanism
 // Optimize gas usage in contract execution
+// Integrate Chainlink VRF for randomness
