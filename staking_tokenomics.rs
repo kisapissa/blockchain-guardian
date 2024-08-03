@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Improve oracle data validation mechanisms
 // Optimize storage for off-chain data
+// Fix compatibility with MetaMask
