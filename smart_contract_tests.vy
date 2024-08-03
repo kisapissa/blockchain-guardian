@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Fix scalability issues with smart contracts
 // Add slashing mechanism for malicious actors
+// Refactor ERC-721 transfer logic
