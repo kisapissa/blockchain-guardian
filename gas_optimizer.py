@@ -7,3 +7,4 @@
 // Add new RPC endpoint
 // Implement rewards escrow system
 // Fix race condition in staking pool
+// Fix governance proposal approval logic
