@@ -4,3 +4,4 @@
 // Refactor cross-chain communication layer
 // Improve error handling in transaction flow
 // Reduce gas cost in minting logic
+// Integrate privacy-enhancing smart contracts
