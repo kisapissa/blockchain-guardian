@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add automated smart contract testing
 // Implement dynamic fee adjustment
+// Fix ERC-20 token interface bugs
