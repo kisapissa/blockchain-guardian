@@ -3,3 +3,4 @@
 // Add support for decentralized auctions
 // Add support for Layer-2 solutions
 // Add automated contract testing tools
+// Reduce gas cost in minting logic
