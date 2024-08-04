@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Fix bugs in NFT metadata handling
 // Integrate zk-SNARKs for enhanced privacy
+// Fix transaction replay issue
