@@ -7,3 +7,4 @@
 // Improve transaction batching efficiency
 // Enhance contract interaction APIs
 // Code cleanup and documentation update
+// Add batch transaction capabilities
