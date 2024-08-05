@@ -3,3 +3,4 @@
 // Optimize gas usage in contract execution
 // Improve token burning mechanism
 // Improve on-chain governance systems
+// Integrate zk-rollups for scaling
