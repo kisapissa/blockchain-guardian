@@ -6,3 +6,4 @@
 // Refactor cross-chain communication layer
 // Fix issue in ERC-20 token transfers
 // Fix overflow bug in token calculation
+// Integrate with decentralized identity providers
