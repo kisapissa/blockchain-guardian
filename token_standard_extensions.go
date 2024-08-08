@@ -5,3 +5,4 @@
 // Optimize token burn process
 // Improve staking pool reward management
 // Add Layer-2 Ethereum scaling solutions
+// Fix transaction replay issue
