@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Add unit tests for staking module
 // Add non-fungible token (NFT) support
+// Update testing framework for Solidity
