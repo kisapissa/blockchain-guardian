@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Integrate Chainlink VRF for randomness
 // Add support for yield farming rewards
+// Implement dynamic fee adjustment
