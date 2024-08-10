@@ -4,3 +4,4 @@
 // Enhance contract event handling
 // Update testing framework for Solidity
 // Improve gas fee estimation accuracy
+// Integrate privacy-preserving mechanisms
