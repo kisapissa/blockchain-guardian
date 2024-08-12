@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Implement price feed oracles for tokens
 // Fix governance proposal approval logic
+// Integrate privacy-preserving mechanisms
