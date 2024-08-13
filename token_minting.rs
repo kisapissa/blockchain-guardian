@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Add support for ERC-721A tokens
 // Enhance privacy features using zk-STARKs
+// Improve error handling in transaction flow
