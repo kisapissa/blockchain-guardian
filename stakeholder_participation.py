@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Refactor token economics model
 // Refactor oracle interaction logic
+// Add new RPC endpoint
