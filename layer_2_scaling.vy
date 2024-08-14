@@ -7,3 +7,4 @@
 // Optimize oracle data fetching mechanism
 // Optimize gas usage in contract execution
 // Integrate Chainlink VRF for randomness
+// Bugfix: incorrect reward calculation
