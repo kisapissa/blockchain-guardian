@@ -8,3 +8,4 @@
 // Improve token burning mechanism
 // Integrate zk-SNARKs for enhanced privacy
 // Fix transaction replay issue
+// Update testing framework for Solidity
