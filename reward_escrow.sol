@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Improve transaction batching efficiency
 // Refactor token economics model
+// Bugfix: incorrect reward calculation
