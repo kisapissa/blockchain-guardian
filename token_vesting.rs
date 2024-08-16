@@ -2,3 +2,4 @@
 // Add support for decentralized auctions
 // Add support for yield farming rewards
 // Optimize decentralized voting mechanisms
+// Refactor staking logic
