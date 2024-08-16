@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Integrate flash loan functionality
 // Add automated token buyback mechanism
+// Refactor contract to use EIP-712 signatures
