@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Fix governance proposal approval logic
 // Integrate with decentralized identity providers
+// Add support for decentralized lending platforms
