@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Add unit tests for staking module
 // Improve transaction batching efficiency
+// Add support for decentralized file storage
