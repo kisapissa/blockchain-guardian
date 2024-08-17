@@ -5,3 +5,4 @@
 // Optimize gas usage for contract deployment
 // Upgrade to latest Solidity version
 // Enhance governance contract flexibility
+// Add support for yield farming rewards
