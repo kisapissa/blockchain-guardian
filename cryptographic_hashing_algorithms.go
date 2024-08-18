@@ -4,3 +4,4 @@
 // Refactor contract event emission
 // Improve contract auditing tools
 // Fix issues in multi-token smart contracts
+// Improve decentralized oracle protocols
