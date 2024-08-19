@@ -14,3 +14,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize WASM compilation for Go contracts
 // Refactor oracle interaction logic
+// Add native support for staking rewards
