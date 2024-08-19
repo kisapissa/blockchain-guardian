@@ -6,3 +6,4 @@
 // Improve contract auditing tools
 // Refactor governance token logic
 // Add slashing mechanism for malicious actors
+// Implement adaptive block size for Ethereum
