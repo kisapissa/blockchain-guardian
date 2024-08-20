@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Optimize proof-of-stake validation
 // Add multi-sig wallet functionality
+// Integrate Chainlink VRF for randomness
