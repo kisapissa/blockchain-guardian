@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Integrate zk-rollups for scaling
 // Add gas optimization features for smart contracts
+// Optimize gas usage in smart contracts
