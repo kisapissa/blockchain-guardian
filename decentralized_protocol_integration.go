@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Fix vulnerabilities in staking contracts
 // Optimize token minting flow
+// Add new feature: on-chain governance
