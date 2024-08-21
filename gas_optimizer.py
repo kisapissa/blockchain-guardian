@@ -8,3 +8,4 @@
 // Implement rewards escrow system
 // Fix race condition in staking pool
 // Fix governance proposal approval logic
+// Fix vulnerability in decentralized finance protocols
