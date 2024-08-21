@@ -8,3 +8,4 @@
 // Refactor multi-signature wallet code
 // Add support for multiple consensus mechanisms
 // Add Layer-2 Ethereum scaling solutions
+// Add multi-chain transaction support
