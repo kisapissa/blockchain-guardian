@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Add dynamic contract fees
 // Add support for zk-SNARKs in smart contracts
+// Improve DApp transaction flow
