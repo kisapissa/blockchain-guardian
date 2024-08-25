@@ -6,3 +6,4 @@
 // Optimize proof-of-stake validation
 // Optimize contract upgrade process
 // Optimize contract upgrade process
+// Implement a new contract event system
