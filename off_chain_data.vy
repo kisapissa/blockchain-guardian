@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Improve contract modularity
 // Refactor contract state machine design
+// Refactor staking logic
