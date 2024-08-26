@@ -7,3 +7,4 @@
 // Optimize proof-of-stake validation
 // Enhance decentralized autonomous organizations
 // Improve decentralized oracle protocols
+// Refactor staking logic
