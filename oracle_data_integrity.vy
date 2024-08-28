@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Add native support for staking rewards
 // Add support for decentralized marketplaces
+// Fix bugs in multi-token systems
