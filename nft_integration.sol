@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Implement cross-chain bridge
 // Fix transaction replay issue
+// Add multi-sig wallet functionality
