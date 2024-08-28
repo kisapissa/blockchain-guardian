@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Implement delegation pattern
 // Improve security in decentralized applications
+// Fix bugs in multi-token systems
