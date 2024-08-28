@@ -7,3 +7,4 @@
 // Add support for yield farming rewards
 // Refactor multi-signature wallet code
 // Integrate automated market maker (AMM) logic
+// Refactor validator reward system
