@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Add governance proposal expiration feature
 // Fix interoperability issues with other blockchains
+// Integrate Chainlink oracles for price data
