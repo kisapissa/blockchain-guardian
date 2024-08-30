@@ -6,3 +6,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve staking logic for better rewards
 // Refactor staking logic
+// Optimize gas cost in function execution
