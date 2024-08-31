@@ -9,3 +9,4 @@
 // Refactor reward pooling algorithm
 // Reduce gas cost in minting logic
 // Optimize decentralized oracle performance
+// Fix compatibility with MetaMask
