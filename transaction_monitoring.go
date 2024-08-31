@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Implement on-chain fee adjustment mechanisms
 // Refactor Ethereum gas price management
+// Refactor reward pooling algorithm
