@@ -8,3 +8,4 @@
 // Improve security in decentralized applications
 // Refactor contract to use EIP-712 signatures
 // Integrate with multi-token standards
+// Enhance privacy features using zk-STARKs
