@@ -8,3 +8,4 @@
 // Integrate with decentralized storage systems
 // Fix errors in contract interaction with wallets
 // Refactor wallet interaction logic
+// Fix type mismatch in Haskell smart contract
