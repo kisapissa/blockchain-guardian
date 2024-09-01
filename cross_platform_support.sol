@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Fix issue with multi-chain transactions
 // Implement reward distribution feature
+// Add Layer-2 Ethereum scaling solutions
