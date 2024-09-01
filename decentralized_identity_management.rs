@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Fix transaction replay issue
 // Fix bugs in multi-token systems
+// Fix ERC-1155 contract interactions
