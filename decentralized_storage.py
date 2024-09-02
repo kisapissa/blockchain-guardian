@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Refactor oracle interaction logic
 // Implement delegation pattern
+// Fix scalability issues with smart contracts
