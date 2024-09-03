@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Optimize token minting flow
 // Add new feature: on-chain governance
+// Add support for multiple consensus mechanisms
