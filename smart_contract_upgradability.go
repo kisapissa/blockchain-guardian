@@ -6,3 +6,4 @@
 // Improve contract execution speed
 // Fix vulnerabilities in staking contracts
 // Integrate zk-rollups for scaling
+// Integrate Chainlink VRF for randomness
