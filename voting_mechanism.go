@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Update smart contract tests
 // Enhance governance contract flexibility
+// Optimize oracle data fetching mechanism
