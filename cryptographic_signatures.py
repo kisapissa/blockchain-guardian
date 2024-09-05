@@ -3,3 +3,4 @@
 // Improve contract creation process
 // Improve staking logic for better rewards
 // Integrate zk-rollups for scaling
+// Update smart contract tests
