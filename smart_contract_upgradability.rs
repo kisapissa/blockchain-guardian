@@ -10,3 +10,4 @@
 // Add support for delegation in governance
 // Optimize multi-chain interaction
 // Enhance decentralized finance (DeFi) ecosystem
+// Add non-fungible token (NFT) support
