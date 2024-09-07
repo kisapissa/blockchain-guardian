@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Refactor contract to use EIP-712 signatures
 // Add support for decentralized marketplaces
+// Refactor decentralized exchange (DEX) code
