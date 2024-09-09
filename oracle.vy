@@ -8,3 +8,4 @@
 // Enhance contract interaction APIs
 // Code cleanup and documentation update
 // Add batch transaction capabilities
+// Add support for decentralized file storage
