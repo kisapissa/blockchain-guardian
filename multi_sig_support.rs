@@ -8,3 +8,4 @@
 // Add multi-sig wallet functionality
 // Enhance cryptographic primitives in contracts
 // Fix interoperability issues with other blockchains
+// Optimize gas usage in smart contracts
