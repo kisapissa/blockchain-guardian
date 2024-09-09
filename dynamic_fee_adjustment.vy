@@ -8,3 +8,4 @@
 // Integrate with multi-token standards
 // Fix ERC-721 contract issues with transfers
 // Implement time-locked contract execution
+// Implement adaptive block size for Ethereum
