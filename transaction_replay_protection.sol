@@ -9,3 +9,4 @@
 // Optimize decentralized application performance
 // Add support for decentralized content distribution
 // Fix errors in NFT minting logic
+// Refactor contract to use EIP-712 signatures
