@@ -9,3 +9,4 @@
 // Fix race condition in staking pool
 // Fix governance proposal approval logic
 // Fix vulnerability in decentralized finance protocols
+// Fix issues in multi-token smart contracts
