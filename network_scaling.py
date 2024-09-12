@@ -6,3 +6,4 @@
 // Enhance contract interaction APIs
 // Improve DApp transaction flow
 // Add support for ERC-1155 tokens
+// Add support for cross-chain bridges
