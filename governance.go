@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Bugfix: incorrect reward calculation
 // Enhance decentralized autonomous governance
+// Improve decentralized lending contract flexibility
