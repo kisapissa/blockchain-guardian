@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor multi-asset token management
 // Integrate decentralized oracles for data feeds
+// Update README with Go module examples
