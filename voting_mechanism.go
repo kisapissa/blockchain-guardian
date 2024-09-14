@@ -6,3 +6,4 @@
 // Update smart contract tests
 // Enhance governance contract flexibility
 // Optimize oracle data fetching mechanism
+// Integrate IPFS for storage
