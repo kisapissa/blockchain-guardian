@@ -14,3 +14,4 @@
 // Fix memory optimization issues in contracts
 // Fix security vulnerability in random number generation
 // Implement a new contract event system
+// Optimize storage for off-chain data
