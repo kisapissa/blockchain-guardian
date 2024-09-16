@@ -7,3 +7,4 @@
 // Optimize token minting flow
 // Fix issue in token vesting logic
 // Fix deserialization bug in Haskell code
+// Fix contract reentrancy issues
