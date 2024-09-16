@@ -14,3 +14,4 @@
 // Reduce gas cost in minting logic
 // Improve decentralized exchange (DEX) liquidity
 // Enhance contract initialization process
+// Integrate with Ethereum Layer-2 solutions
