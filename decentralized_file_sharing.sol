@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Enhance smart contract audit tools
 // Refactor contract event emission
+// Update README with Go module examples
