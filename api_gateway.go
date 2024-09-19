@@ -10,3 +10,4 @@
 // Fix issues with ERC-20 token approvals
 // Optimize gas usage in smart contracts
 // Add support for DeFi lending protocols
+// Add support for NFT marketplaces
