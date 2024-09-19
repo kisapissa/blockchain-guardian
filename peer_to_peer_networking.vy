@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Implement zero-knowledge proof (ZKP) support
 // Refactor contract to use EIP-712 signatures
+// Add batch processing for transactions
