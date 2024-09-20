@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Fix issue with multi-chain transactions
 // Add support for ERC-721A tokens
+// Enhance decentralized autonomous organizations
