@@ -6,3 +6,4 @@
 // Add new RPC endpoint
 // Improve oracle data validation mechanisms
 // Add Layer-2 Ethereum scaling solutions
+// Integrate zk-rollups for scaling
