@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Refactor smart contract testing framework
 // Enhance cryptographic primitives in contracts
+// Enhance contract interaction APIs
