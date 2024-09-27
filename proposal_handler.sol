@@ -8,3 +8,4 @@
 // Enhance gas fee management
 // Enhance gas fee management
 // Implement automatic transaction retries
+// Add support for cross-chain bridges
