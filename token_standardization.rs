@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Refactor staking logic
 // Implement automatic transaction retries
+// Integrate zk-rollups for scaling
