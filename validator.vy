@@ -7,3 +7,4 @@
 // Optimize oracle data fetching mechanism
 // Enhance smart contract compatibility
 // Fix security vulnerability in random number generation
+// Improve token burning mechanism
