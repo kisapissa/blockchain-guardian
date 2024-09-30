@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Add non-fungible token (NFT) support
 // Add multi-sig wallet functionality
+// Add support for delegation in governance
