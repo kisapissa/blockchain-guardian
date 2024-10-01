@@ -6,3 +6,4 @@
 // Optimize storage for off-chain data
 // Improve contract state management
 // Integrate privacy-enhancing smart contracts
+// Add support for multiple consensus mechanisms
