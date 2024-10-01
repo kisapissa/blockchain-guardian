@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Fix issue with multi-chain transactions
 // Fix wallet interaction issues in DeFi protocols
+// Refactor staking logic
