@@ -8,3 +8,4 @@
 // Fix issues with token vesting contracts
 // Fix ERC-721 contract issues with transfers
 // Improve token burning mechanism
+// Implement zero-knowledge proof (ZKP) support
