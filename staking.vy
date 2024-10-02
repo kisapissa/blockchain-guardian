@@ -12,3 +12,4 @@
 // Improve decentralized oracle protocols
 // Update README with Go module examples
 // Improve contract interaction via APIs
+// Add support for cross-chain bridges
