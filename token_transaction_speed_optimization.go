@@ -5,3 +5,4 @@
 // Integrate automated market maker (AMM) logic
 // Add support for zk-SNARKs in smart contracts
 // Refactor decentralized governance structure
+// Fix issues with token transfer confirmations
