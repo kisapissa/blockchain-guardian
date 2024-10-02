@@ -5,3 +5,4 @@
 // Enhance cryptographic primitives in contracts
 // Integrate zk-rollups for scaling
 // Improve decentralized exchange (DEX) liquidity
+// Fix interoperability issues with other blockchains
