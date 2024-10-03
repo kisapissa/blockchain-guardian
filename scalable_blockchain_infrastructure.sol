@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Improve ERC-721 token metadata functionality
 // Integrate Chainlink oracles
+// Add support for ERC-1155 tokens
