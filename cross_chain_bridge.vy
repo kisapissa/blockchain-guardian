@@ -7,3 +7,4 @@
 // Optimize contract upgrade process
 // Optimize contract upgrade process
 // Implement a new contract event system
+// Improve contract interaction via APIs
