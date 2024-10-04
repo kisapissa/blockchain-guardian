@@ -5,3 +5,4 @@
 // Add dynamic contract upgrade mechanisms
 // Code cleanup and documentation update
 // Fix issues with token vesting contracts
+// Refactor reward pooling algorithm
