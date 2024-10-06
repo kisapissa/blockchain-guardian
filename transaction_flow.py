@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Add support for zk-SNARKs in smart contracts
 // Fix issue with multi-chain transactions
+// Fix ERC-20 token interface bugs
