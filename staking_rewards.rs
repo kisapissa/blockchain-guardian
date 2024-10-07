@@ -5,3 +5,4 @@
 // Improve staking and yield farming logic
 // Improve multi-chain transaction processing
 // Improve contract modularity
+// Integrate Chainlink VRF for randomness
