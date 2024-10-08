@@ -7,3 +7,4 @@
 // Enhance smart contract audit tools
 // Integrate zk-rollups for scaling
 // Improve smart contract code modularity
+// Integrate privacy-enhancing smart contracts
