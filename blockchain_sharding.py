@@ -8,3 +8,4 @@
 // Integrate automated market maker (AMM) logic
 // Fix deserialization bug in Haskell code
 // Fix bug in random number generation
+// Enhance security checks
