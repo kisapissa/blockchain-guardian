@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Refactor validator reward system
 // Implement on-chain fee adjustment mechanisms
+// Add governance proposal expiration feature
