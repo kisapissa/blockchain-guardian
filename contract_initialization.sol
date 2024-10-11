@@ -7,3 +7,4 @@
 // Add support for decentralized content distribution
 // Add support for ERC-721A tokens
 // Implement cross-chain bridge
+// Implement adaptive block size for Ethereum
