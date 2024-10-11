@@ -7,3 +7,4 @@
 // Integrate chain-agnostic oracles
 // Implement automated governance voting
 // Improve token burning mechanism
+// Update README with Go module examples
