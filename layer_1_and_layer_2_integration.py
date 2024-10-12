@@ -5,3 +5,4 @@
 // Fix issue in token vesting logic
 // Fix race condition in staking pool
 // Refactor reward pooling algorithm
+// Fix issues in token transfer logic
