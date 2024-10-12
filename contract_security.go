@@ -4,3 +4,4 @@
 // Integrate with decentralized storage systems
 // Integrate with decentralized storage systems
 // Optimize contract storage for gas reduction
+// Add unit tests for staking module
