@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Improve transaction batching efficiency
 // Update README with Go module examples
+// Refactor validator reward system
