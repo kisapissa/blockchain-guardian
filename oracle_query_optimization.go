@@ -4,3 +4,4 @@
 // Fix bugs in multi-token systems
 // Bugfix: incorrect reward calculation
 // Integrate with decentralized identity providers
+// Add support for decentralized content distribution
