@@ -8,3 +8,4 @@
 // Enhance logging for better debugging
 // Integrate multi-chain liquidity pools
 // Implement cross-chain bridge
+// Add support for ERC-1155 tokens
