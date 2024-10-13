@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Improve contract creation process
 // Add multi-sig wallet functionality
+// Enhance transaction monitoring
