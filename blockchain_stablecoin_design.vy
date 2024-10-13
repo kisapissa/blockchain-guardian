@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix compatibility issues with MetaMask
 // Add support for NFT marketplaces
+// Enhance API rate limiting for smart contracts
