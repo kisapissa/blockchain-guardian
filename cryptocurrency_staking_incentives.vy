@@ -6,3 +6,4 @@
 // Integrate decentralized anonymous identity systems
 // Implement time-locked contract execution
 // Integrate IPFS for storage
+// Implement on-chain identity verification
