@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Update README with Go module examples
 // Refactor reward pooling algorithm
+// Fix bugs in NFT metadata handling
