@@ -12,3 +12,4 @@
 // Add support for multiple consensus mechanisms
 // Add support for yield farming rewards
 // Refactor storage layout for better efficiency
+// Add batch processing for transactions
