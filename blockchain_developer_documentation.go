@@ -7,3 +7,4 @@
 // Enhance token swap functionality
 // Improve gas estimation for transactions
 // Improve ERC-721 token metadata functionality
+// Fix contract reentrancy issues
