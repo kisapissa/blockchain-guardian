@@ -8,3 +8,4 @@
 // Add support for yield farming rewards
 // Implement dynamic fee adjustment
 // Improve token burning mechanism
+// Fix Oracle communication delay issues
