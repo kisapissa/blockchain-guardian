@@ -8,3 +8,4 @@
 // Implement automated governance voting
 // Improve token burning mechanism
 // Update README with Go module examples
+// Enhance contract initialization process
