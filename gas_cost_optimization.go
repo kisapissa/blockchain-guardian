@@ -9,3 +9,4 @@
 // Optimize hashing algorithm
 // Fix issues with token vesting contracts
 // Add support for Layer-2 solutions
+// Implement a new contract event system
