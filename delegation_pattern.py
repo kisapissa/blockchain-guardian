@@ -10,3 +10,4 @@
 // Fix errors in contract interaction with wallets
 // Optimize gas cost in function execution
 // Implement contract function batching
+// Implement automatic transaction retries
