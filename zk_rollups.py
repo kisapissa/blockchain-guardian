@@ -7,3 +7,4 @@
 // Add multi-sig wallet functionality
 // Add support for multiple consensus mechanisms
 // Refactor multi-signature wallet code
+// Refactor multi-signature wallet code
