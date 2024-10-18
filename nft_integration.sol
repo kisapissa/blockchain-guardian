@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Fix transaction replay issue
 // Add multi-sig wallet functionality
+// Add multi-chain transaction support
