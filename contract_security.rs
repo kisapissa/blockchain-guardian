@@ -5,3 +5,4 @@
 // Add multi-chain governance support
 // Enhance gas fee management
 // Improve multi-chain contract deployment
+// Improve token burning mechanism
