@@ -5,3 +5,4 @@
 // Refactor Ethereum gas price management
 // Integrate decentralized oracles for data feeds
 // Enhance contract initialization process
+// Fix issue in ERC-20 token transfers
