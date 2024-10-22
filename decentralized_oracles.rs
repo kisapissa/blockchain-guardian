@@ -9,3 +9,4 @@
 // Integrate automated market maker (AMM) logic
 // Refactor validator reward system
 // Optimize token minting flow
+// Refactor storage layout for better efficiency
