@@ -10,3 +10,4 @@
 // Fix issue with multi-chain transactions
 // Optimize decentralized oracle performance
 // Bugfix: incorrect reward calculation
+// Fix vulnerability in decentralized finance protocols
