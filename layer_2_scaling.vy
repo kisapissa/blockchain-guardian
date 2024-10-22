@@ -9,3 +9,4 @@
 // Integrate Chainlink VRF for randomness
 // Bugfix: incorrect reward calculation
 // Implement dynamic fee adjustment
+// Add batch transaction capabilities
