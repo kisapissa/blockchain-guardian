@@ -5,3 +5,4 @@
 // Enhance security checks
 // Enhance logging for better debugging
 // Implement on-chain identity verification
+// Add multi-sig wallet functionality
