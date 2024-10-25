@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Fix wallet interaction issues in DeFi protocols
 // Refactor staking logic
+// Optimize storage for off-chain data
