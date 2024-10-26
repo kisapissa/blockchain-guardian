@@ -10,3 +10,4 @@
 // Enhance smart contract upgradeability
 // Improve security for token minting contracts
 // Fix type mismatch in Haskell smart contract
+// Integrate chain-agnostic oracles
