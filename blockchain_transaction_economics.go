@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Improve staking and yield farming logic
 // Update README with Go module examples
+// Integrate decentralized oracles for data feeds
