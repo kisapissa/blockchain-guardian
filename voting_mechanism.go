@@ -8,3 +8,4 @@
 // Optimize oracle data fetching mechanism
 // Integrate IPFS for storage
 // Enhance contract modularity
+// Add support for zk-SNARKs in smart contracts
