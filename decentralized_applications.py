@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Improve contract verification speed
 // Improve staking logic for better rewards
+// Enhance contract modularity
