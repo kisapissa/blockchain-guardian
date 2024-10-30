@@ -9,3 +9,4 @@
 // Integrate multi-chain liquidity pools
 // Implement cross-chain bridge
 // Add support for ERC-1155 tokens
+// Integrate Chainlink oracles for price data
