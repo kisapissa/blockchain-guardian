@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Improve on-chain governance systems
 // Integrate zk-rollups for scaling
+// Optimize proof-of-stake validation
