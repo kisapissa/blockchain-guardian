@@ -11,3 +11,4 @@
 // Fix issue in ERC-20 token transfers
 // Improve staking logic for better rewards
 // Enhance privacy features using zk-STARKs
+// Integrate decentralized prediction models
