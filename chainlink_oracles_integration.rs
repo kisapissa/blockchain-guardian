@@ -4,3 +4,4 @@
 // Improve oracle data validation mechanisms
 // Enhance smart contract upgradeability
 // Refactor reward pooling algorithm
+// Add support for yield farming rewards
