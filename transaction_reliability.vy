@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Integrate zk-rollups for scaling
 // Optimize proof-of-stake validation
+// Add support for decentralized file storage
