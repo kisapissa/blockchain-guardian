@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Fix issues with ERC-20 token approvals
 // Fix race condition in staking pool
+// Add multi-chain governance support
