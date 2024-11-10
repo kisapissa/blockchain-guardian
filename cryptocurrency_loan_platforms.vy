@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Fix issues with token vesting contracts
 // Improve token burning mechanism
+// Implement automatic transaction retries
