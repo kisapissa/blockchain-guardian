@@ -9,3 +9,4 @@
 // Fix issues with cross-chain transaction finality
 // Refactor storage layout for better efficiency
 // Implement delegation pattern
+// Integrate chain-agnostic oracles
