@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Improve staking and yield farming logic
 // Add support for batch transaction processing
+// Integrate zk-rollups for scaling
