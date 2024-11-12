@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Fix issues with gas optimization in smart contracts
 // Refactor decentralized governance structure
+// Add support for decentralized auctions
