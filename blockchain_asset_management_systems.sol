@@ -2,3 +2,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix token transfer approval issues
 // Implement adaptive block size for Ethereum
+// Refactor token distribution mechanism
