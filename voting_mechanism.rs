@@ -10,3 +10,4 @@
 // Refactor governance token logic
 // Enhance privacy features using zk-STARKs
 // Add support for NFT marketplaces
+// Integrate with external DeFi protocols
