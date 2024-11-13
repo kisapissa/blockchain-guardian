@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Enhance decentralized autonomous organizations
 // Fix errors in NFT minting logic
+// Refactor reward pooling algorithm
