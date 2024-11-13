@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Bugfix: incorrect reward calculation
 // Enhance contract state verification
+// Add support for ERC-1155 tokens
