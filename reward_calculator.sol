@@ -8,3 +8,4 @@
 // Add automated contract testing tools
 // Integrate IPFS for storage
 // Fix ERC-20 token interface bugs
+// Implement time-locked contract execution
