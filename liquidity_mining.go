@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Integrate Chainlink oracles
 // Add gas optimization features for smart contracts
+// Enhance gas fee management
