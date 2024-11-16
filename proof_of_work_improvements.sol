@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Add security checks for contract deployment
 // Fix vulnerabilities in staking contracts
+// Optimize state channels for faster transactions
