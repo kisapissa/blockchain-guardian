@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Fix race condition in staking pool
 // Enhance contract event handling
+// Fix vulnerabilities in staking contracts
