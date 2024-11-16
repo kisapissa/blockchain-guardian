@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Enhance gas fee management
 // Reduce gas cost in minting logic
+// Fix token transfer approval issues
