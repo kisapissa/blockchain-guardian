@@ -10,3 +10,4 @@
 // Refactor storage layout for better efficiency
 // Implement delegation pattern
 // Integrate chain-agnostic oracles
+// Add support for DeFi lending protocols
