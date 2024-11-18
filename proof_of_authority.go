@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Integrate decentralized prediction models
 // Improve contract modularity
+// Integrate automated market maker (AMM) logic
