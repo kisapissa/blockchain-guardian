@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Improve on-chain governance systems
 // Improve scalability for smart contract platforms
+// Refactor reward pooling algorithm
