@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Integrate decentralized prediction models
 // Optimize proof-of-stake validation
+// Fix overflow bug in token calculation
