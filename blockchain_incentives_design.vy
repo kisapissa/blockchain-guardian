@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance contract modularity for future upgrades
 // Improve error handling in transaction flow
+// Refactor storage layout for better efficiency
