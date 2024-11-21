@@ -8,3 +8,4 @@
 // Add unit tests for staking module
 // Improve transaction batching efficiency
 // Add support for decentralized file storage
+// Enhance contract modularity for future upgrades
