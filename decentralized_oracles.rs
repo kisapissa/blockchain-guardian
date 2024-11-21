@@ -10,3 +10,4 @@
 // Refactor validator reward system
 // Optimize token minting flow
 // Refactor storage layout for better efficiency
+// Improve staking and yield farming logic
