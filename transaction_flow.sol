@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Improve contract execution speed
 // Refactor reward pooling algorithm
+// Add new feature: on-chain governance
