@@ -4,3 +4,4 @@
 // Enhance off-chain data processing
 // Refactor decentralized storage system
 // Implement contract function batching
+// Implement cross-chain bridge
