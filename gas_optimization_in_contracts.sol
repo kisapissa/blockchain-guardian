@@ -8,3 +8,4 @@
 // Update README with Go module examples
 // Refactor reward pooling algorithm
 // Fix bugs in NFT metadata handling
+// Fix compatibility issues with major wallets
