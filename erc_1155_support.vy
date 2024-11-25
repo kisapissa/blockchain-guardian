@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Improve ERC-721 token metadata functionality
 // Enhance privacy features using zk-STARKs
+// Improve staking pool reward management
