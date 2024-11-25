@@ -5,3 +5,4 @@
 // Improve ERC-721 token metadata functionality
 // Enhance privacy features using zk-STARKs
 // Improve staking pool reward management
+// Code cleanup and documentation update
