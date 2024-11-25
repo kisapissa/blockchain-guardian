@@ -9,3 +9,4 @@
 // Add fallback mechanism in Solidity contract
 // Add support for zk-SNARKs in smart contracts
 // Integrate Chainlink VRF for randomness
+// Refactor voting mechanism
