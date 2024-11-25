@@ -9,3 +9,4 @@
 // Improve smart contract logging
 // Improve ERC-721 token metadata functionality
 // Add support for ERC-1155 tokens
+// Refactor decentralized governance structure
