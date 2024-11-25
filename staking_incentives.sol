@@ -11,3 +11,4 @@
 // Update README with Go module examples
 // Fix issue with multi-chain transactions
 // Update dependencies for Vyper contract
+// Fix transaction replay issue
