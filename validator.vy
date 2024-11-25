@@ -9,3 +9,4 @@
 // Fix security vulnerability in random number generation
 // Improve token burning mechanism
 // Add security checks for contract deployment
+// Refactor contract to use EIP-712 signatures
