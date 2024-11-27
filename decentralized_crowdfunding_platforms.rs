@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate with multi-token standards
 // Integrate with decentralized identity providers
+// Integrate chain-agnostic oracles
