@@ -13,3 +13,4 @@
 // Fix Oracle communication delay issues
 // Enhance contract event handling
 // Enhance developer documentation
+// Integrate zk-SNARKs for enhanced privacy
