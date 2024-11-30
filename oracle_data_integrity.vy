@@ -4,3 +4,4 @@
 // Add native support for staking rewards
 // Add support for decentralized marketplaces
 // Fix bugs in multi-token systems
+// Integrate Chainlink oracles for price data
