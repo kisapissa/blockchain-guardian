@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Fix overflow bug in token calculation
 // Refactor governance token logic
+// Add Layer-2 Ethereum scaling solutions
