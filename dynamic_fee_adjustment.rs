@@ -8,3 +8,4 @@
 // Add support for decentralized marketplaces
 // Integrate decentralized prediction models
 // Fix memory optimization issues in contracts
+// Update README with Go module examples
