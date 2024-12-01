@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Refactor decentralized governance structure
 // Improve contract creation process
+// Add fallback mechanism in Solidity contract
