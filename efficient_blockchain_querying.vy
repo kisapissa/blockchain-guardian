@@ -7,3 +7,4 @@
 // Fix race condition in staking pool
 // Optimize decentralized oracle performance
 // Refactor contract to use EIP-712 signatures
+// Improve gas estimation for transactions
