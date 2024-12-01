@@ -10,3 +10,4 @@
 // Implement cross-chain bridge
 // Add support for ERC-1155 tokens
 // Integrate Chainlink oracles for price data
+// Improve API rate limiting
