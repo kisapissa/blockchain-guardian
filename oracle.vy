@@ -9,3 +9,4 @@
 // Code cleanup and documentation update
 // Add batch transaction capabilities
 // Add support for decentralized file storage
+// Fix errors in contract interaction with wallets
