@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Improve contract interaction via APIs
 // Improve contract interaction via APIs
+// Enhance contract initialization process
