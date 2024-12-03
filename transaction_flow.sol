@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Refactor reward pooling algorithm
 // Add new feature: on-chain governance
+// Integrate with external DeFi protocols
