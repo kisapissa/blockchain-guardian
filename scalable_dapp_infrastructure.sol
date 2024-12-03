@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Implement delegation pattern
 // Fix contract reentrancy issues
+// Integrate with multi-token standards
