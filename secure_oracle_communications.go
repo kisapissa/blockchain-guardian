@@ -2,3 +2,4 @@
 // Optimize contract storage for gas reduction
 // Refactor oracle interaction logic
 // Improve contract interaction via APIs
+// Refactor staking logic
