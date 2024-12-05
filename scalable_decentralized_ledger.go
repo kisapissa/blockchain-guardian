@@ -4,3 +4,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Fix wallet interaction issues in DeFi protocols
 // Enhance off-chain data processing
+// Fix governance proposal approval logic
