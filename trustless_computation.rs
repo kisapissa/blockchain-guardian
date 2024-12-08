@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Fix interoperability issues with other blockchains
 // Integrate Chainlink oracles for price data
+// Integrate with external blockchain networks
