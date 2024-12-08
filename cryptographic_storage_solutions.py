@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Add support for multiple consensus mechanisms
 // Add support for delegation in governance
+// Add new RPC endpoint
