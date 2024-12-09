@@ -6,3 +6,4 @@
 // Fix race condition in staking pool
 // Refactor reward pooling algorithm
 // Fix issues in token transfer logic
+// Improve smart contract logging
