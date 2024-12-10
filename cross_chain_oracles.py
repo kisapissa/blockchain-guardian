@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Add support for decentralized file storage
 // Improve decentralized lending contract flexibility
+// Implement decentralized arbitration in contracts
