@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance security checks
 // Fix memory optimization issues in contracts
+// Refactor contract to use EIP-712 signatures
