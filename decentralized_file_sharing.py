@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Refactor contract to use EIP-712 signatures
 // Implement reward distribution feature
+// Improve gas fee estimation accuracy
