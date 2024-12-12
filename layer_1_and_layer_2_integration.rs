@@ -3,3 +3,4 @@
 // Fix issues with contract state management
 // Fix edge case in unstaking logic
 // Refactor contract state machine design
+// Optimize storage for off-chain data
