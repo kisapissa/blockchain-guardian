@@ -10,3 +10,4 @@
 // Improve token burning mechanism
 // Implement zero-knowledge proof (ZKP) support
 // Enhance logging for better debugging
+// Integrate with decentralized identity providers
