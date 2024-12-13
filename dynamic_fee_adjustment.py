@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Add support for ERC-1155 tokens
 // Integrate privacy-enhancing smart contracts
+// Implement on-chain identity verification
