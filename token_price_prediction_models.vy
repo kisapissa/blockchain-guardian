@@ -4,3 +4,4 @@
 // Add support for DeFi lending protocols
 // Optimize storage for off-chain data
 // Add support for fractional token ownership
+// Refactor contract to use EIP-712 signatures
