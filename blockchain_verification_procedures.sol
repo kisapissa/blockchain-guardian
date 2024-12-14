@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Implement dynamic fee adjustment
 // Add automated token buyback mechanism
+// Fix compatibility issues with major wallets
