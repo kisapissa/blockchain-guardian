@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix token transfer approval issues
 // Integrate with decentralized storage systems
+// Implement zero-knowledge proof (ZKP) support
