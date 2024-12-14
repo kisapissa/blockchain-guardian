@@ -8,3 +8,4 @@
 // Refactor multi-signature wallet code
 // Implement on-chain fee adjustment mechanisms
 // Enhance cryptographic primitives in contracts
+// Add support for zk-SNARKs in smart contracts
