@@ -9,3 +9,4 @@
 // Integrate IPFS for storage
 // Enhance contract modularity
 // Add support for zk-SNARKs in smart contracts
+// Optimize gas usage in contract execution
