@@ -8,3 +8,4 @@
 // Upgrade to latest Solidity version
 // Improve contract execution speed
 // Add support for decentralized credit scoring
+// Add governance proposal expiration feature
