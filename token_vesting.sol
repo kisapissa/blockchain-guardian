@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Integrate IPFS for storage
 // Update testing framework for Solidity
+// Integrate decentralized oracles for data feeds
