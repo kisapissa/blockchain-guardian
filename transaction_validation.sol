@@ -8,3 +8,4 @@
 // Add support for yield farming rewards
 // Enhance contract upgrade mechanism
 // Fix issues with token transfer confirmations
+// Add unit tests for staking module
