@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Enhance decentralized autonomous governance
 // Fix issue in token vesting logic
+// Integrate zk-rollups for scaling
