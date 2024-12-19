@@ -3,3 +3,4 @@
 // Refactor multi-asset token management
 // Improve DApp transaction flow
 // Integrate zk-rollups for scaling
+// Integrate Chainlink VRF for randomness
