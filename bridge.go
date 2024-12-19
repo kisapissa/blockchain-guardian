@@ -11,3 +11,4 @@
 // Fix Oracle communication delay issues
 // Refactor multi-asset token management
 // Improve contract state management
+// Refactor storage layout for better efficiency
