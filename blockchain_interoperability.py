@@ -6,3 +6,4 @@
 // Add decentralized contract upgradeability
 // Integrate zk-rollups for scaling
 // Implement automatic transaction retries
+// Add fallback mechanism in Solidity contract
