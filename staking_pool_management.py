@@ -3,3 +3,4 @@
 // Add support for decentralized credit scoring
 // Fix scalability issues with smart contracts
 // Add governance proposal expiration feature
+// Add non-fungible token (NFT) support
