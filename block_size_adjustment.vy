@@ -9,3 +9,4 @@
 // Implement cross-chain bridge
 // Improve security for token minting contracts
 // Implement liquidity pool staking mechanism
+// Add support for zk-SNARKs in smart contracts
