@@ -5,3 +5,4 @@
 // Add support for DeFi lending protocols
 // Integrate decentralized anonymous identity systems
 // Refactor storage layout for better efficiency
+// Fix ERC-721 contract issues with transfers
