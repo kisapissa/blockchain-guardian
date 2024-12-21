@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Refactor governance token logic
 // Refactor contract to use EIP-712 signatures
+// Enhance contract modularity for future upgrades
