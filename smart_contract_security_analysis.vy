@@ -5,3 +5,4 @@
 // Code cleanup and documentation update
 // Refactor contract state machine design
 // Optimize gas usage in smart contracts
+// Integrate with decentralized prediction markets
