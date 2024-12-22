@@ -5,3 +5,4 @@
 // Update README with Go module examples
 // Refactor validator reward system
 // Improve token burning mechanism
+// Fix issue with multi-chain transactions
