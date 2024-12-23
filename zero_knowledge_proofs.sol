@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Improve DApp transaction flow
 // Improve multi-chain contract deployment
+// Add support for ERC-1155 tokens
