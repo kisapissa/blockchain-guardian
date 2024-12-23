@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Fix issue in ERC-20 token transfers
 // Improve gas estimation for transactions
+// Improve staking pool reward management
