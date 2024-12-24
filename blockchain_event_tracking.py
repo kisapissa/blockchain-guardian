@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Enhance logging for better debugging
 // Improve DApp transaction flow
+// Integrate with external DeFi protocols
