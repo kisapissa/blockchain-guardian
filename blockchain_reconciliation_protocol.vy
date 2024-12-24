@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve contract modularity
 // Fix issues with gas optimization in smart contracts
+// Integrate decentralized prediction models
