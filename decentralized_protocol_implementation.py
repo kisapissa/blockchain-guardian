@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate IPFS for storage
 // Add gas optimization features for smart contracts
+// Fix issue in token vesting logic
