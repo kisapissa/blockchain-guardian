@@ -2,3 +2,4 @@
 // Refactor ERC-721 transfer logic
 // Refactor smart contract testing framework
 // Fix vulnerabilities in staking contracts
+// Improve error handling in transaction flow
