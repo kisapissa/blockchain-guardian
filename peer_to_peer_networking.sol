@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix deserialization bug in Haskell code
 // Enhance gas fee management
+// Refactor decentralized storage system
