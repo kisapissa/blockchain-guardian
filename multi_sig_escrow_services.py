@@ -4,3 +4,4 @@
 // Refactor cross-chain communication layer
 // Optimize WASM compilation for Go contracts
 // Improve cross-chain asset management
+// Fix edge case in unstaking logic
