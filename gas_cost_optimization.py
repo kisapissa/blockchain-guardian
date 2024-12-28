@@ -12,3 +12,4 @@
 // Improve staking logic for better rewards
 // Enhance privacy features using zk-STARKs
 // Integrate decentralized prediction models
+// Integrate IPFS for storage
