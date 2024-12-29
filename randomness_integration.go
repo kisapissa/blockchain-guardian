@@ -5,3 +5,4 @@
 // Fix issues in multi-token smart contracts
 // Enhance privacy features using zk-STARKs
 // Enhance contract initialization process
+// Fix compatibility issues with MetaMask
