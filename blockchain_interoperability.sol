@@ -7,3 +7,4 @@
 // Add batch transaction capabilities
 // Improve token burning mechanism
 // Enhance transaction monitoring
+// Add security checks for contract deployment
