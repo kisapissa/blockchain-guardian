@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Improve contract interaction via APIs
 // Improve staking pool reward management
+// Refactor reward pooling algorithm
