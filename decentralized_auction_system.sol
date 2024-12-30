@@ -7,3 +7,4 @@
 // Optimize proof-of-stake validation
 // Fix issues with contract state management
 // Implement delegation pattern
+// Refactor staking logic
