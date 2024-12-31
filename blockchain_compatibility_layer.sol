@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Refactor voting mechanism
 // Implement liquidity pool staking mechanism
+// Refactor oracle interaction logic
