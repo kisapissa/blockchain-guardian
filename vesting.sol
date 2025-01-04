@@ -8,3 +8,4 @@
 // Improve staking pool reward management
 // Fix compatibility issues with MetaMask
 // Fix race condition in staking pool
+// Add dynamic contract fees
