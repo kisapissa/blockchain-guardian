@@ -4,3 +4,4 @@
 // Optimize proof-of-stake validation
 // Optimize hashing algorithm
 // Refactor reward pooling algorithm
+// Add support for ERC-721A tokens
