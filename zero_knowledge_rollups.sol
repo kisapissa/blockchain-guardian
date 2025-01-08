@@ -6,3 +6,4 @@
 // Add support for decentralized marketplaces
 // Fix compatibility issues with MetaMask
 // Refactor contract event emission
+// Improve contract creation process
