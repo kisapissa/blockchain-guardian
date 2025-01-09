@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Fix issues with contract state management
 // Fix ERC-20 token interface bugs
+// Fix compatibility issues with MetaMask
