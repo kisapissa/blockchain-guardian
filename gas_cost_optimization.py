@@ -13,3 +13,4 @@
 // Enhance privacy features using zk-STARKs
 // Integrate decentralized prediction models
 // Integrate IPFS for storage
+// Add multi-sig wallet functionality
