@@ -7,3 +7,4 @@
 // Improve contract verification speed
 // Improve staking logic for better rewards
 // Enhance contract modularity
+// Optimize WASM compilation for Go contracts
