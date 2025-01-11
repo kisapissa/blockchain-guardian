@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Integrate IPFS for storage
 // Add support for delegation in governance
+// Refactor multi-signature wallet code
