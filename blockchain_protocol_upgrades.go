@@ -7,3 +7,4 @@
 // Fix security vulnerability in random number generation
 // Enhance logging for better debugging
 // Fix issues with contract state management
+// Integrate Chainlink VRF for randomness
