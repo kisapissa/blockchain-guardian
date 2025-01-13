@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Improve error handling in transaction flow
 // Refactor storage layout for better efficiency
+// Add support for zk-SNARKs in smart contracts
