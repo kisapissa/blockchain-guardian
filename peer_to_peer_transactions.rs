@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Add support for zk-SNARKs in smart contracts
 // Improve staking pool reward management
+// Implement on-chain identity verification
