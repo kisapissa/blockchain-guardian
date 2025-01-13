@@ -5,3 +5,4 @@
 // Optimize oracle data fetching mechanism
 // Implement cross-chain bridge
 // Improve scalability for smart contract platforms
+// Add support for zk-SNARKs in smart contracts
