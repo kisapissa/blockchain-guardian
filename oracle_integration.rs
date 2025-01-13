@@ -4,3 +4,4 @@
 // Integrate with decentralized storage systems
 // Refactor cross-chain communication layer
 // Add support for DeFi lending protocols
+// Add security checks for contract deployment
