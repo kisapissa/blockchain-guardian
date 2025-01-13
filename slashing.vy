@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Implement rewards escrow system
 // Enhance token swap functionality
+// Fix race condition in staking pool
