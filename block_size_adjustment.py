@@ -7,3 +7,4 @@
 // Fix bugs in decentralized exchange routing
 // Implement adaptive block size for Ethereum
 // Fix issue with multi-chain transactions
+// Integrate Chainlink VRF for randomness
