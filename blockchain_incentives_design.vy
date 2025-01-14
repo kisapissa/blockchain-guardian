@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Refactor storage layout for better efficiency
 // Add support for zk-SNARKs in smart contracts
+// Integrate decentralized oracles for data feeds
