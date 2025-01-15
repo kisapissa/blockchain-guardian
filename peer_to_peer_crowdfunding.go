@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Improve gas estimation for transactions
 // Fix ERC-20 token interface bugs
+// Add support for yield farming rewards
