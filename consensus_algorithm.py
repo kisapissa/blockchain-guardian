@@ -9,3 +9,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor wallet interaction logic
 // Fix type mismatch in Haskell smart contract
+// Fix vulnerability in decentralized finance protocols
