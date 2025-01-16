@@ -5,3 +5,4 @@
 // Optimize token burn process
 // Refactor contract state machine design
 // Implement a new contract event system
+// Add support for DeFi lending protocols
