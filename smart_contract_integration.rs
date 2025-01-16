@@ -7,3 +7,4 @@
 // Refactor validator reward system
 // Integrate decentralized oracles for data feeds
 // Fix issues with cross-chain transaction finality
+// Improve token burning mechanism
