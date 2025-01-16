@@ -14,3 +14,4 @@
 // Fix transaction replay issue
 // Implement price feed oracles for tokens
 // Enhance privacy features using zk-STARKs
+// Fix issues in token transfer logic
