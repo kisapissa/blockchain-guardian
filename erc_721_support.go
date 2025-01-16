@@ -7,3 +7,4 @@
 // Fix issues with contract state management
 // Fix ERC-20 token interface bugs
 // Fix compatibility issues with MetaMask
+// Update smart contract tests
