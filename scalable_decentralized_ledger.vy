@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Add slashing mechanism for malicious actors
 // Refactor governance token logic
+// Add support for zk-SNARKs in smart contracts
