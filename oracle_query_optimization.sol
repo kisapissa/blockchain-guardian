@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles for price data
 // Fix ERC-721 contract issues with transfers
 // Improve staking pool reward management
+// Fix compatibility issues with major wallets
