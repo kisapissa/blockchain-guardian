@@ -9,3 +9,4 @@
 // Add support for batch transaction processing
 // Improve transaction batching efficiency
 // Enhance transaction monitoring
+// Refactor staking logic
