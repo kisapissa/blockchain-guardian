@@ -10,3 +10,4 @@
 // Add multi-chain governance support
 // Integrate with Ethereum Layer-2 solutions
 // Integrate with decentralized storage systems
+// Improve staking pool reward management
