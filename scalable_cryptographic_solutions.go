@@ -8,3 +8,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement time-locked contract execution
 // Add batch processing for transactions
+// Update testing framework for Solidity
