@@ -4,3 +4,4 @@
 // Enhance decentralized autonomous governance
 // Add support for zk-SNARKs in smart contracts
 // Fix issues in multi-token smart contracts
+// Fix issue with multi-chain transactions
