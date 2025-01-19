@@ -4,3 +4,4 @@
 // Fix oracle data delays in decentralized apps
 // Update smart contract tests
 // Implement adaptive block size for Ethereum
+// Add native support for staking rewards
