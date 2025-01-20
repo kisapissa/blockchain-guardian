@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles
 // Add support for ERC-1155 tokens
 // Implement liquidity pool staking mechanism
+// Add support for fractional token ownership
