@@ -7,3 +7,4 @@
 // Enhance logging for better debugging
 // Optimize token withdrawal logic
 // Enhance smart contract state changes monitoring
+// Integrate IPFS for storage
