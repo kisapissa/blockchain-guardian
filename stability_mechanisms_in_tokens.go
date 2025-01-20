@@ -5,3 +5,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix memory leak in Rust smart contract
 // Improve contract creation process
+// Fix ERC-721 contract issues with transfers
