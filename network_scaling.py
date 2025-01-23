@@ -9,3 +9,4 @@
 // Add support for cross-chain bridges
 // Add multi-chain transaction support
 // Refactor ERC-721 transfer logic
+// Fix ERC-20 token interface bugs
