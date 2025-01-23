@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance developer documentation
 // Update testing framework for Solidity
+// Refactor contract to use EIP-712 signatures
