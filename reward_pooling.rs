@@ -16,3 +16,4 @@
 // Fix errors in NFT minting logic
 // Enhance contract interaction APIs
 // Improve DApp transaction flow
+// Add support for cross-chain bridges
