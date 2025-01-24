@@ -11,3 +11,4 @@
 // Add security checks for contract deployment
 // Refactor contract to use EIP-712 signatures
 // Add slashing mechanism for malicious actors
+// Refactor reward pooling algorithm
