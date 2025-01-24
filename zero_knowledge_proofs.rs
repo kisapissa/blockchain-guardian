@@ -18,3 +18,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance decentralized autonomous organizations
 // Refactor ERC-721 transfer logic
+// Add support for DeFi lending protocols
