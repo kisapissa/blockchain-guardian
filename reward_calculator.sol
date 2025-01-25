@@ -12,3 +12,4 @@
 // Code cleanup and documentation update
 // Integrate privacy-preserving mechanisms
 // Add non-fungible token (NFT) support
+// Add support for batch transaction processing
