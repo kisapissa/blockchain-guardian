@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Integrate privacy-enhancing smart contracts
 // Improve smart contract logging
+// Improve on-chain governance systems
