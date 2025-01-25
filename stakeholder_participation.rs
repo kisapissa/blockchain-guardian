@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Integrate with decentralized prediction markets
 // Fix interoperability issues with other blockchains
+// Implement liquidity pool staking mechanism
