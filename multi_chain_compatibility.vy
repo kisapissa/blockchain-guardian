@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Improve gas estimation for transactions
 // Integrate automated market maker (AMM) logic
+// Improve contract interaction via APIs
