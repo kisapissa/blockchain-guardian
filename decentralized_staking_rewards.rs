@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Enhance smart contract upgradeability
 // Add support for NFT marketplaces
+// Improve DApp transaction flow
