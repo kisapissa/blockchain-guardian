@@ -8,3 +8,4 @@
 // Implement contract function batching
 // Update testing framework for Solidity
 // Implement delegation pattern
+// Optimize storage for off-chain data
