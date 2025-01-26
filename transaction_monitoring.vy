@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor decentralized storage system
 // Fix transaction replay issue
+// Integrate privacy-preserving mechanisms
