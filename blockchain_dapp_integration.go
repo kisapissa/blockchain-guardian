@@ -5,3 +5,4 @@
 // Enhance contract interaction APIs
 // Fix errors in contract interaction with wallets
 // Integrate Chainlink VRF for randomness
+// Refactor contract to use EIP-712 signatures
