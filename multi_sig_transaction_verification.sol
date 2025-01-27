@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Improve decentralized identity (DID) systems
 // Integrate with Ethereum Layer-2 solutions
+// Update dependencies for Vyper contract
