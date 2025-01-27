@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Fix errors in contract interaction with wallets
 // Enhance contract state verification
+// Optimize contract storage for gas reduction
