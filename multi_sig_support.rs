@@ -11,3 +11,4 @@
 // Optimize gas usage in smart contracts
 // Enhance contract upgrade mechanism
 // Improve contract state management
+// Enhance privacy features using zk-STARKs
