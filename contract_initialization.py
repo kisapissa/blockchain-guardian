@@ -15,3 +15,4 @@
 // Optimize WASM compilation for Go contracts
 // Refactor oracle interaction logic
 // Add native support for staking rewards
+// Add support for NFT marketplaces
