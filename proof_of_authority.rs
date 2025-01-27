@@ -10,3 +10,4 @@
 // Fix oracle data delays in decentralized apps
 // Fix ERC-20 token interface bugs
 // Implement liquidity pool staking mechanism
+// Add governance proposal expiration feature
