@@ -13,3 +13,4 @@
 // Optimize gas usage for contract deployment
 // Fix type mismatch in Haskell smart contract
 // Improve security in decentralized applications
+// Fix compatibility with MetaMask
