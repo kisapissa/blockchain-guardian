@@ -14,3 +14,4 @@
 // Refactor decentralized exchange (DEX) code
 // Improve decentralized exchange (DEX) liquidity
 // Improve decentralized lending contract flexibility
+// Add native support for staking rewards
