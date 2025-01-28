@@ -10,3 +10,4 @@
 // Improve transaction batching efficiency
 // Enhance transaction monitoring
 // Refactor staking logic
+// Fix type mismatch in Haskell smart contract
