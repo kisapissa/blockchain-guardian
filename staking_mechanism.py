@@ -9,3 +9,4 @@
 // Enhance smart contract state changes monitoring
 // Enhance contract event handling
 // Refactor storage layout for better efficiency
+// Add support for zk-SNARKs in smart contracts
