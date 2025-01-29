@@ -9,3 +9,4 @@
 // Add support for DeFi lending protocols
 // Fix overflow bug in token calculation
 // Improve contract execution performance
+// Enhance smart contract state changes monitoring
