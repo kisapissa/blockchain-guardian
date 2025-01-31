@@ -10,3 +10,4 @@
 // Fix transaction replay issue
 // Implement liquidity pool staking mechanism
 // Fix compatibility issues with major wallets
+// Implement on-chain identity verification
