@@ -11,3 +11,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Enhance logging for better debugging
 // Integrate with decentralized identity providers
+// Fix errors in NFT minting logic
