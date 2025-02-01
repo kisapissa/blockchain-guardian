@@ -4,3 +4,4 @@
 // Enhance contract modularity
 // Fix data consistency issues in smart contracts
 // Refactor voting mechanism
+// Refactor incentive structure in DeFi protocol
