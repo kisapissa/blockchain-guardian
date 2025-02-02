@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Fix errors in contract interaction with wallets
 // Enhance cryptographic primitives in contracts
+// Integrate Chainlink VRF for randomness
