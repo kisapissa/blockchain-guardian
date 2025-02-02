@@ -5,3 +5,4 @@
 // Enhance contract interaction APIs
 // Integrate with decentralized identity providers
 // Add multi-sig wallet functionality
+// Update testing framework for Solidity
