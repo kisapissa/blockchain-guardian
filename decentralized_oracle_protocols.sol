@@ -7,3 +7,4 @@
 // Fix ERC-721 contract issues with transfers
 // Fix issues with contract state management
 // Improve gas estimation for transactions
+// Refactor governance token logic
