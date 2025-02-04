@@ -16,3 +16,4 @@
 // Enhance contract initialization process
 // Integrate with Ethereum Layer-2 solutions
 // Fix issue in token vesting logic
+// Enhance contract modularity for future upgrades
