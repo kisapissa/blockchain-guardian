@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Refactor storage layout for better efficiency
 // Fix issues in token transfer logic
+// Add gas optimization features for smart contracts
