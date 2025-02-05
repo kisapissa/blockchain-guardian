@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance contract initialization process
 // Fix compatibility issues with MetaMask
+// Fix memory optimization issues in contracts
