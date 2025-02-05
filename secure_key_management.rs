@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Add support for delegation in governance
 // Refactor multi-signature wallet code
+// Update dependencies for Vyper contract
