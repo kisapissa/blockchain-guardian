@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Enhance contract state verification
 // Fix issue in ERC-20 token transfers
+// Fix issues in multi-token smart contracts
