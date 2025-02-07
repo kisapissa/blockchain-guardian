@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Enhance smart contract upgradeability
 // Fix issue in ERC-20 token transfers
+// Add multi-sig wallet functionality
