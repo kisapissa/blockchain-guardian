@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Update README with Go module examples
 // Implement cross-platform contract compatibility
+// Implement on-chain identity verification
