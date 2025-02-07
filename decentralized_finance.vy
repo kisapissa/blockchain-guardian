@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Update smart contract tests
 // Add support for yield farming rewards
+// Add support for delegation in governance
