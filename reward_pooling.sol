@@ -11,3 +11,4 @@
 // Implement delegation pattern
 // Integrate chain-agnostic oracles
 // Add support for DeFi lending protocols
+// Add support for DeFi lending protocols
