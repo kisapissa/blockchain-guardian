@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Integrate with external blockchain networks
 // Improve contract creation process
+// Integrate with external blockchain networks
