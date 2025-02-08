@@ -11,3 +11,4 @@
 // Fix ERC-20 token interface bugs
 // Implement liquidity pool staking mechanism
 // Add governance proposal expiration feature
+// Fix ERC-721 contract issues with transfers
