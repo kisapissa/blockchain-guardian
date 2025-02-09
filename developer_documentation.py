@@ -11,3 +11,4 @@
 // Enhance transaction monitoring
 // Refactor staking logic
 // Fix type mismatch in Haskell smart contract
+// Enhance contract initialization process
