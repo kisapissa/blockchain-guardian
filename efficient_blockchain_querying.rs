@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Refactor staking logic
 // Fix interoperability issues with other blockchains
+// Improve scalability for smart contract platforms
