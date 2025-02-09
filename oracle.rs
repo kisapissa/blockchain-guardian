@@ -11,3 +11,4 @@
 // Fix token transfer approval issues
 // Improve gas estimation for transactions
 // Refactor token economics model
+// Improve contract modularity
