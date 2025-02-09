@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Implement on-chain identity verification
 // Refactor multi-signature wallet code
+// Fix scalability issues with smart contracts
