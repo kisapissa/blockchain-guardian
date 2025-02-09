@@ -6,3 +6,4 @@
 // Improve gas fee estimation accuracy
 // Integrate privacy-preserving mechanisms
 // Add support for Layer-2 solutions
+// Integrate decentralized anonymous identity systems
