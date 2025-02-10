@@ -8,3 +8,4 @@
 // Fix issues with contract state management
 // Refactor storage layout for better efficiency
 // Refactor oracle interaction logic
+// Integrate with decentralized storage systems
