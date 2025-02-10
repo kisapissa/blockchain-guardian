@@ -10,3 +10,4 @@
 // Fix compatibility issues with MetaMask
 // Optimize gas usage in smart contracts
 // Integrate with Ethereum Layer-2 solutions
+// Add support for decentralized insurance protocols
