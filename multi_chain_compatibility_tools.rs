@@ -6,3 +6,4 @@
 // Integrate chain-agnostic oracles
 // Fix ERC-20 token interface bugs
 // Fix issue with multi-chain transactions
+// Add support for decentralized marketplaces
