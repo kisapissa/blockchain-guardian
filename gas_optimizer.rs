@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Improve token burning mechanism
 // Fix data consistency issues in smart contracts
+// Fix deserialization bug in Haskell code
