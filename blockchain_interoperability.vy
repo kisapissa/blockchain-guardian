@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Add non-fungible token (NFT) support
 // Update testing framework for Solidity
+// Refactor smart contract testing framework
