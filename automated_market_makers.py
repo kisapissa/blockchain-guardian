@@ -10,3 +10,4 @@
 // Improve ERC-721 token metadata functionality
 // Add support for ERC-1155 tokens
 // Refactor decentralized governance structure
+// Refactor incentive structure in DeFi protocol
