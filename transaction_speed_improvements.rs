@@ -4,3 +4,4 @@
 // Optimize multi-chain interaction
 // Improve multi-chain contract deployment
 // Fix edge case in unstaking logic
+// Integrate Chainlink oracles
