@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Implement adaptive block size for Ethereum
 // Refactor token distribution mechanism
+// Fix compatibility with MetaMask
