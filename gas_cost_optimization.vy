@@ -12,3 +12,4 @@
 // Add support for ERC-721A tokens
 // Fix issue in token vesting logic
 // Improve staking logic for better rewards
+// Enhance contract initialization process
